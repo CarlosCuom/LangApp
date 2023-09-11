@@ -12,22 +12,22 @@ toBe.addEventListener("click", function () {
   goButton.href = userChoice;
 });
 presentContinuous.addEventListener("click", function () {
-  userChoice = "/present_continuous/index.html";
+  userChoice = "/LangApp/present_continuous/index.html";
   goButton.href = userChoice;
 });
 simplePresent.addEventListener("click", function () {
-  userChoice = "/simple_present/index.html";
+  userChoice = "/LangApp/simple_present/index.html";
   goButton.href = userChoice;
 });
 simplePast.addEventListener("click", function () {
-  userChoice = "/simple_past/index.html";
+  userChoice = "/LangApp/simple_past/index.html";
   goButton.href = userChoice;
 });
 presentPerfect.addEventListener("click", function () {
-  userChoice = "/present_perfect/index.html";
+  userChoice = "/LangApp/present_perfect/index.html";
   goButton.href = userChoice;
 });
 basicVocabulary.addEventListener("click", function () {
-  userChoice = "/basic_vocabulary/index.html";
+  userChoice = "/LangApp/basic_vocabulary/index.html";
   goButton.href = userChoice;
 });
