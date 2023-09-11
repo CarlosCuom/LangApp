@@ -1,0 +1,711 @@
+{
+  "exercises": [
+    {
+      "sentence": "I ___ never been to Canada.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "had",
+      "meaning": "Nunca he estado en Canadá."
+    },
+    {
+      "sentence": "She ____ finished her homework yet.",
+      "answer": "has not",
+      "option2": "have not",
+      "option3": "had not",
+      "meaning": "Ella aún no ha terminado su tarea."
+    },
+    {
+      "sentence": "We ____ seen that movie before.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "had",
+      "meaning": "Hemos visto esa película antes."
+    },
+    {
+      "sentence": "They ____ just arrived at the airport.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "had",
+      "meaning": "Acaban de llegar al aeropuerto."
+    },
+    {
+      "sentence": "He ____ already eaten breakfast.",
+      "answer": "has",
+      "option2": "have",
+      "option3": "had",
+      "meaning": "Él ya desayunó."
+    },
+    {
+      "sentence": "I ____ never traveled by plane.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "had",
+      "meaning": "Nunca he viajado en avión."
+    },
+    {
+      "sentence": "She ____ visited New York City twice.",
+      "answer": "has",
+      "option2": "have",
+      "option3": "had",
+      "meaning": "Ella ha visitado la ciudad de Nueva York dos veces."
+    },
+    {
+      "sentence": "We ____ already seen that movie.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "had",
+      "meaning": "Ya hemos visto esa película."
+    },
+    {
+      "sentence": "They ____ known each other for years.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "had",
+      "meaning": "Han conocido el uno al otro durante años."
+    },
+    {
+      "sentence": "He ____ lived in this city his whole life.",
+      "answer": "has",
+      "option2": "have",
+      "option3": "had",
+      "meaning": "Él ha vivido en esta ciudad toda su vida."
+    },
+    {
+      "sentence": "He ____ his homework.",
+      "answer": "has finished",
+      "option2": "have finished",
+      "option3": "is finishing",
+      "meaning": "Él ha terminado su tarea."
+    },
+    {
+      "sentence": "They _____ for the test.",
+      "answer": "have not studied",
+      "option2": "has not studied",
+      "option3": "are not studying",
+      "meaning": "Ellos no han estudiado para el examen."
+    },
+    {
+      "sentence": "I _____ that book.",
+      "answer": "have read",
+      "option2": "has read",
+      "option3": "am reading",
+      "meaning": "Yo he leído ese libro."
+    },
+    {
+      "sentence": "She ____ London last year.",
+      "answer": "has visited",
+      "option2": "have visited",
+      "option3": "is visiting",
+      "meaning": "Ella ha visitado Londres el año pasado."
+    },
+    {
+      "sentence": "We _____ each other for a long time.",
+      "answer": "have not seen",
+      "option2": "has not seen",
+      "option3": "are not seeing",
+      "meaning": "No nos hemos visto por mucho tiempo."
+    },
+    {
+      "sentence": "My parents ____ a new car.",
+      "answer": "have bought",
+      "option2": "has bought",
+      "option3": "are buying",
+      "meaning": "Mis padres han comprado un carro nuevo."
+    },
+    {
+      "sentence": "She _____ sushi before.",
+      "answer": "has not eaten",
+      "option2": "have not eaten",
+      "option3": "is not eating",
+      "meaning": "Ella no ha comido sushi antes."
+    },
+    {
+      "sentence": "They ____ to many countries.",
+      "answer": "have traveled",
+      "option2": "has traveled",
+      "option3": "are traveling",
+      "meaning": "Ellos han viajado a muchos países."
+    },
+    {
+      "sentence": "He _____ his project yet.",
+      "answer": "has not finished",
+      "option2": "have not finished",
+      "option3": "is not finishing",
+      "meaning": "Él no ha terminado su proyecto aún."
+    },
+    {
+      "sentence": "I _____ Paris a few times.",
+      "answer": "have visited",
+      "option2": "has visited",
+      "option3": "am visiting",
+      "meaning": "Yo he visitado París unas cuantas veces."
+    },
+    {
+      "sentence": "She ____ many books.",
+      "answer": "has read",
+      "option2": "have read",
+      "option3": "is reading",
+      "meaning": "Ella ha leído muchos libros."
+    },
+    {
+      "sentence": "We _____ to that restaurant before.",
+      "answer": "have been",
+      "option2": "has been",
+      "option3": "are going",
+      "meaning": "Nosotros hemos estado en ese restaurante antes."
+    },
+    {
+      "sentence": "He _____ his old job.",
+      "answer": "has quit",
+      "option2": "have quit",
+      "option3": "quits",
+      "meaning": "Él ha renunciado a su antiguo trabajo."
+    },
+    {
+      "sentence": "They _____ each other since childhood.",
+      "answer": "have known",
+      "option2": "has known",
+      "option3": "know",
+      "meaning": "Ellos se han conocido desde la infancia."
+    },
+    {
+      "sentence": "She ____ a cake for her sister.",
+      "answer": "has baked",
+      "option2": "have baked",
+      "option3": "is baking",
+      "meaning": "Ella ha horneado un pastel para su hermana."
+    },
+    {
+      "sentence": "We ____ a lot in this class.",
+      "answer": "have learned",
+      "option2": "has learned",
+      "option3": "learn",
+      "meaning": "Nosotros hemos aprendido mucho en esta clase."
+    },
+    {
+      "sentence": "He ____ her several times.",
+      "answer": "has called",
+      "option2": "have called",
+      "option3": "is calling",
+      "meaning": "Él la ha llamado varias veces."
+    },
+    {
+      "sentence": "They _____ their new house.",
+      "answer": "have bought",
+      "option2": "has bought",
+      "option3": "buy",
+      "meaning": "Ellos han comprado su casa nueva."
+    },
+    {
+      "sentence": "We ____ Spanish for years.",
+      "answer": "have studied",
+      "option2": "has studied",
+      "option3": "study",
+      "meaning": "Nosotros hemos estudiado español durante años."
+    },
+    {
+      "sentence": "He _____ all night.",
+      "answer": "has worked",
+      "option2": "have worked",
+      "option3": "works",
+      "meaning": "Él ha trabajado toda la noche."
+    },
+    {
+      "sentence": "She _____ me many gifts.",
+      "answer": "has given",
+      "option2": "have given",
+      "option3": "gives",
+      "meaning": "Ella me ha dado muchos regalos."
+    },
+    {
+      "sentence": "They _____ English since childhood.",
+      "answer": "have spoken",
+      "option2": "has spoken",
+      "option3": "speak",
+      "meaning": "Ellos hablan inglés desde la infancia."
+    },
+    {
+      "sentence": "We ____ the book.",
+      "answer": "have finished",
+      "option2": "has finished",
+      "option3": "finish",
+      "meaning": "Nosotros hemos terminado el libro."
+    },
+    {
+      "sentence": "He ____ in this company for years.",
+      "answer": "has worked",
+      "option2": "have worked",
+      "option3": "works",
+      "meaning": "Él ha trabajado en esta empresa durante años."
+    },
+    {
+      "sentence": "She _____ many countries.",
+      "answer": "has visited",
+      "option2": "have visited",
+      "option3": "visit",
+      "meaning": "Ella ha visitado muchos países."
+    },
+    {
+      "sentence": "They _____ the news already.",
+      "answer": "have heard",
+      "option2": "has heard",
+      "option3": "hear",
+      "meaning": "Ellos ya han escuchado las noticias."
+    },
+    {
+      "sentence": "We ____ to the beach last weekend.",
+      "answer": "have gone",
+      "option2": "has gone",
+      "option3": "go",
+      "meaning": "Hemos ido a la playa el fin de semana pasado."
+    },
+    {
+      "sentence": "He _____ his old car.",
+      "answer": "has sold",
+      "option2": "have sold",
+      "option3": "sells",
+      "meaning": "Él ha vendido su carro viejo."
+    },
+    {
+      "sentence": "She ____ him for years.",
+      "answer": "has known",
+      "option2": "have known",
+      "option3": "knows",
+      "meaning": "Ella lo ha conocido durante años."
+    },
+    {
+      "sentence": "They ______ in this town for a long time.",
+      "answer": "have lived",
+      "option2": "has lived",
+      "option3": "live",
+      "meaning": "Ellos han vivido en esta ciudad por mucho tiempo."
+    },
+    {
+      "sentence": "___ you ever been to Japan?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Alguna vez has estado en Japón?"
+    },
+    {
+      "sentence": "She ___ finished her homework yet.",
+      "answer": "has not",
+      "option2": "have not",
+      "option3": "does not",
+      "meaning": "Ella no ha terminado su tarea aún."
+    },
+    {
+      "sentence": "___ they ever seen a movie in 3D?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Alguna vez han visto una película en 3D?"
+    },
+    {
+      "sentence": "We ____ the movie already.",
+      "answer": "have not seen",
+      "option2": "has not seen",
+      "option3": "didn't see",
+      "meaning": "No hemos visto la película aún."
+    },
+    {
+      "sentence": "Has the teacher ___ the test yet?",
+      "answer": "graded",
+      "option2": "grade",
+      "option3": "grudged",
+      "meaning": "¿El profesor ha calificado el examen aún?"
+    },
+    {
+      "sentence": "___ she ever tried sushi?",
+      "answer": "Has",
+      "option2": "Have",
+      "option3": "Did",
+      "meaning": "¿Alguna vez ha probado sushi?"
+    },
+    {
+      "sentence": "I ___ finished my presentation yet.",
+      "answer": "have not",
+      "option2": "has not",
+      "option3": "did not",
+      "meaning": "No he terminado mi presentación aún."
+    },
+    {
+      "sentence": "___ they been to the beach today?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Han ido a la playa hoy?"
+    },
+    {
+      "sentence": "My friends ___ bought the tickets for the concert.",
+      "answer": "have not",
+      "option2": "has not",
+      "option3": "didn't",
+      "meaning": "Mis amigos no han comprado los boletos para el concierto todavía."
+    },
+    {
+      "sentence": "Have you ____ your passport for the trip?",
+      "answer": "forgotten",
+      "option2": "forgot",
+      "option3": "forgotting",
+      "meaning": "¿Has olvidado tu pasaporte para el viaje?"
+    },
+    {
+      "sentence": "___ the employees arrived to work yet?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Han llegado los empleados al trabajo aún?"
+    },
+    {
+      "sentence": "He ____ visited his grandparents recently.",
+      "answer": "has not",
+      "option2": "have not",
+      "option3": "didn't",
+      "meaning": "No ha visitado a sus abuelos recientemente."
+    },
+    {
+      "sentence": "___ they ever been on a road trip?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Alguna vez han hecho un viaje por carretera?"
+    },
+    {
+      "sentence": "They ___ spoken to each other in a long time.",
+      "answer": "have not",
+      "option2": "has not",
+      "option3": "didn't",
+      "meaning": "No han hablado entre ellos en mucho tiempo."
+    },
+    {
+      "sentence": "___ she ever lived abroad?",
+      "answer": "Has",
+      "option2": "Have",
+      "option3": "Did",
+      "meaning": "¿Alguna vez ha vivido en el extranjero?"
+    },
+    {
+      "sentence": "They ______ begun the project yet.",
+      "answer": "have not",
+      "option2": "has not",
+      "option3": "didn't",
+      "meaning": "Todavía no han empezado el proyecto."
+    },
+    {
+      "sentence": "___ they been on a safari before?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Alguna vez han estado en un safari antes?"
+    },
+    {
+      "sentence": "The students ___ finished their exams yet.",
+      "answer": "have not",
+      "option2": "has not",
+      "option3": "didn't",
+      "meaning": "Los estudiantes no han terminado sus exámenes aún."
+    },
+    {
+      "sentence": "___ you ever traveled alone?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Alguna vez has viajado solo(a)?"
+    },
+    {
+      "sentence": "They ____ painted the walls of their house yet.",
+      "answer": "have not",
+      "option2": "has not",
+      "option3": "didn't",
+      "meaning": "Todavía no han pintado las paredes de su casa."
+    },
+    {
+      "sentence": "The team _____ the match.",
+      "answer": "has won",
+      "option2": "have won",
+      "option3": "is winning",
+      "meaning": "El equipo ha ganado el partido."
+    },
+    {
+      "sentence": "She _____ her test.",
+      "answer": "has passed",
+      "option2": "have passed",
+      "option3": "is passing",
+      "meaning": "Ella ha aprobado su examen."
+    },
+    {
+      "sentence": "They _____ a new car.",
+      "answer": "have bought",
+      "option2": "has bought",
+      "option3": "are buying",
+      "meaning": "Ellos han comprado un coche nuevo."
+    },
+    {
+      "sentence": "Have you _____ the book yet?",
+      "answer": "read",
+      "option2": "reads",
+      "option3": "is reading",
+      "meaning": "¿Has leído el libro todavía?"
+    },
+    {
+      "sentence": "We _____ this restaurant before.",
+      "answer": "have tried",
+      "option2": "has tried",
+      "option3": "are trying",
+      "meaning": "Nosotros hemos probado este restaurante antes."
+    },
+    {
+      "sentence": "___ you ever been to Brazil?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Do",
+      "meaning": "¿Alguna vez has estado en Brasil?"
+    },
+    {
+      "sentence": "She _____ a lot of progress in her English studies.",
+      "answer": "has made",
+      "option2": "have made",
+      "option3": "is making",
+      "meaning": "Ella ha hecho mucho progreso en sus estudios de inglés."
+    },
+    {
+      "sentence": "He _____ this movie already.",
+      "answer": "has watched",
+      "option2": "have watched",
+      "option3": "is watching",
+      "meaning": "Él ha visto esta película ya."
+    },
+    {
+      "sentence": "They _____ the new restaurant in town.",
+      "answer": "have tried",
+      "option2": "has tried",
+      "option3": "are trying",
+      "meaning": "Ellos han probado el nuevo restaurante de la ciudad."
+    },
+    {
+      "sentence": "___ she finished her homework yet?",
+      "answer": "Has",
+      "option2": "Have",
+      "option3": "Does",
+      "meaning": "¿Ella ha terminado su tarea ya?"
+    },
+    {
+      "sentence": "Have you _____ the news?",
+      "answer": "heard",
+      "option2": "hears",
+      "option3": "are hearing",
+      "meaning": "¿Has escuchado las noticias?"
+    },
+    {
+      "sentence": "We _____ the park this morning.",
+      "answer": "have visited",
+      "option2": "has visited",
+      "option3": "am visiting",
+      "meaning": "Nosotros hemos visitado el parque esta mañana."
+    },
+    {
+      "sentence": "She _____ many photos of her trip.",
+      "answer": "has taken",
+      "option2": "have taken",
+      "option3": "is taking",
+      "meaning": "Ella ha tomado muchas fotos de su viaje."
+    },
+    {
+      "sentence": "___ he arrived yet?",
+      "answer": "Has",
+      "option2": "Have",
+      "option3": "Does",
+      "meaning": "¿Él ha llegado aún?"
+    },
+    {
+      "sentence": "Have we _____ our flight?",
+      "answer": "missed",
+      "option2": "misses",
+      "option3": "are missing",
+      "meaning": "¿Hemos perdido nuestro vuelo?"
+    },
+    {
+      "sentence": "They _____ a lot of money this month.",
+      "answer": "have earned",
+      "option2": "has earned",
+      "option3": "are earning",
+      "meaning": "Ellos han ganado mucho dinero este mes."
+    },
+    {
+      "sentence": "She _____ many times.",
+      "answer": "has moved",
+      "option2": "have moved",
+      "option3": "is moving",
+      "meaning": "Ella se ha mudado muchas veces."
+    },
+    {
+      "sentence": "___ you seen the latest episode?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Do",
+      "meaning": "¿Has visto el último episodio?"
+    },
+    {
+      "sentence": "We _____ our tickets online.",
+      "answer": "have booked",
+      "option2": "has booked",
+      "option3": "are booking",
+      "meaning": "Nosotros hemos reservado nuestros boletos en línea."
+    },
+    {
+      "sentence": "Have you _____ your decision?",
+      "answer": "made",
+      "option2": "makes",
+      "option3": "are making",
+      "meaning": "¿Has tomado tu decisión?"
+    },
+    {
+      "sentence": "I ____ any new books.",
+      "answer": "have not bought",
+      "option2": "has not bought",
+      "option3": "are not buying",
+      "meaning": "No he comprado libros nuevos."
+    },
+    {
+      "sentence": "______ she studied for the test?",
+      "answer": "Has",
+      "option2": "Have",
+      "option3": "Does",
+      "meaning": "¿Ella ha estudiado para el examen?"
+    },
+    {
+      "sentence": "You _____ your dinner yet.",
+      "answer": "have not finished",
+      "option2": "has not finished",
+      "option3": "are not finishing",
+      "meaning": "Tú no has terminado tu cena aún."
+    },
+    {
+      "sentence": "______ they found a solution?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Do",
+      "meaning": "¿Ellos han encontrado una solución?"
+    },
+    {
+      "sentence": "He _____ to the grocery store today.",
+      "answer": "has not been",
+      "option2": "have not been",
+      "option3": "isn't being",
+      "meaning": "Él no ha ido a la tienda de comestibles hoy."
+    },
+    {
+      "sentence": "____ you seen the new album?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Does",
+      "meaning": "¿Has visto el nuevo álbum?"
+    },
+    {
+      "sentence": "We _____ any plans for the weekend.",
+      "answer": "have not made",
+      "option2": "has not made",
+      "option3": "are not making",
+      "meaning": "No hemos hecho planes para el fin de semana."
+    },
+    {
+      "sentence": "______ they finished their homework?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Ellos han terminado su tarea?"
+    },
+    {
+      "sentence": "You _____ any messages today.",
+      "answer": "have not received",
+      "option2": "has not received",
+      "option3": "are not receiving",
+      "meaning": "Tú no has recibido mensajes hoy."
+    },
+    {
+      "sentence": "____ he returned from his trip?",
+      "answer": "Has",
+      "option2": "Have",
+      "option3": "Did",
+      "meaning": "¿Él ha regresado de su viaje?"
+    },
+    {
+      "sentence": "We _____ at the new restaurant yet.",
+      "answer": "have not eaten",
+      "option2": "has not eaten",
+      "option3": "are not eating",
+      "meaning": "No hemos comido en el nuevo restaurante aún."
+    },
+    {
+      "sentence": "______ you done your homework?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Do",
+      "meaning": "¿Has terminado tu tarea?"
+    },
+    {
+      "sentence": "She _____ to the gym this week.",
+      "answer": "has not gone",
+      "option2": "have not gone",
+      "option3": "isn't going",
+      "meaning": "Ella no ha ido al gimnasio esta semana."
+    },
+    {
+      "sentence": "____ they finished the project on time?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Do",
+      "meaning": "¿Ellos han terminado el proyecto a tiempo?"
+    },
+    {
+      "sentence": "They _____ any progress in their research.",
+      "answer": "have not made",
+      "option2": "has not made",
+      "option3": "are not making",
+      "meaning": "No han hecho ningún progreso en su investigación."
+    },
+    {
+      "sentence": "______ you seen the latest episode of the series?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Has visto el último episodio de la serie?"
+    },
+    {
+      "sentence": "He _____ the room yet.",
+      "answer": "has not cleaned",
+      "option2": "have not cleaned",
+      "option3": "isn't cleaning",
+      "meaning": "Él no ha limpiado la habitación aún."
+    },
+    {
+      "sentence": "______ they moved to a new house?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Ellos se han mudado a una casa nueva?"
+    },
+    {
+      "sentence": "You _____ your guitar for a while.",
+      "answer": "have not played",
+      "option2": "has not played",
+      "option3": "are not playing",
+      "meaning": "No has tocado tu guitarra por un tiempo."
+    },
+    {
+      "sentence": "____ they watched the movie yet?",
+      "answer": "Have",
+      "option2": "Has",
+      "option3": "Did",
+      "meaning": "¿Ellos han visto la película aún?"
+    },
+    {
+      "sentence": "We _____ any progress in our work.",
+      "answer": "have not made",
+      "option2": "has not made",
+      "option3": "are not making",
+      "meaning": "No hemos hecho ningún progreso en nuestro trabajo."
+    }
+  ]
+}

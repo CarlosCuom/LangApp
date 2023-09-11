@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.main-content {
+  /*border-style: solid;*/
+  display: flex;
+  flex-direction: column;
+  height: 70vh;
+  justify-content: center;
+  align-items: center;
+}
+.original-sentence {
+  margin-bottom: 10%;
+  text-align: center;
+  width: 90%;
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+.exercise {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px,
+    rgba(0, 0, 0, 0.05) 0px 5px 10px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+}
+.button-choice {
+  display: flex;
+  justify-content: center;
+  margin: 5%;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.button-choice button {
+  margin: 2%;
+  appearance: button;
+  background-color: #2f99ca;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  line-height: 10px;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transition: filter 0.2s;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.button-choice button:focus {
+  background-color: #2518d6;
+}
+
+.footer {
+  background-color: dodgerblue;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  width: 100vw;
+  height: 80px;
+}
+.button-footer {
+  margin: 5%;
+}
+
+.button-footer button {
+  margin: 2%;
+  appearance: button;
+  background-color: #2f56ca;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.8px;
+  line-height: 15px;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.button-footer button:disabled {
+  display: none;
+}

@@ -1,0 +1,704 @@
+{
+  "exercises": [
+    {
+      "sentence": "The cow ___ big.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "La vaca es grande."
+    },
+    {
+      "sentence": "The cars ____ blue.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Los carros son azules."
+    },
+    {
+      "sentence": "My brother ____ a doctor",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Mi hermano es doctor."
+    },
+    {
+      "sentence": "I ___ a student.",
+      "answer": "am",
+      "option2": "is",
+      "option3": "are",
+      "meaning": "Yo soy estudiante."
+    },
+    {
+      "sentence": "The baker ___ kind.",
+      "answer": "is",
+      "option2": "are",
+      "option3": "red",
+      "meaning": "El panadero es amable."
+    },
+    {
+      "sentence": "My brother's books ___ used.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Los libros de mi hermano son usados."
+    },
+    {
+      "sentence": "The teacher ____ bored.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "El profesor está aburrido."
+    },
+    {
+      "sentence": "The cat __ sleeping",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "El gato está durmiendo."
+    },
+    {
+      "sentence": "I ____ a student.",
+      "answer": "am",
+      "option2": "are",
+      "option3": "is",
+      "meaning": "Yo soy un estudiante."
+    },
+    {
+      "sentence": "She ___ my friend.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Ella es mi amiga."
+    },
+    {
+      "sentence": "I ____ tired",
+      "answer": "am not",
+      "option2": "are not",
+      "option3": "is not",
+      "meaning": "No estoy cansado"
+    },
+    {
+      "sentence": "She _____ not here right now",
+      "answer": "is",
+      "option2": "is not",
+      "option3": "are",
+      "meaning": "Ella no está aquí en este momento"
+    },
+    {
+      "sentence": "____ I late?",
+      "answer": "Am",
+      "option2": "Is",
+      "option3": "Are",
+      "meaning": "¿Estoy llegando tarde?"
+    },
+    {
+      "sentence": "___ she your sister?",
+      "answer": "Is",
+      "option2": "Am",
+      "option3": "Are",
+      "meaning": "¿Ella es tu hermana?"
+    },
+    {
+      "sentence": "___ they not coming to the party?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Ellos no van a venir a la fiesta?"
+    },
+    {
+      "sentence": "The weather ___ bad",
+      "answer": "is not",
+      "option2": "not is",
+      "option3": "are not",
+      "meaning": "El clima no está malo"
+    },
+    {
+      "sentence": "It ___ a difficult task",
+      "answer": "is not",
+      "option2": "are not",
+      "option3": "not are",
+      "meaning": "No es una tarea difícil"
+    },
+    {
+      "sentence": "They ___ from France",
+      "answer": "are",
+      "option2": "is",
+      "option3": "not",
+      "meaning": "Ellos son de Francia"
+    },
+    {
+      "sentence": "He ___ an engineer",
+      "answer": "is",
+      "option2": "are",
+      "option3": "am",
+      "meaning": "Él es un ingeniero"
+    },
+    {
+      "sentence": "___ the book on the desk?",
+      "answer": "Is",
+      "option2": "Not is",
+      "option3": "Are",
+      "meaning": "¿Está el libro en el escritorio?"
+    },
+    {
+      "sentence": "The cat ____ black.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "El gato es negro"
+    },
+    {
+      "sentence": "We ____ students.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Nosotros somos estudiantes"
+    },
+    {
+      "sentence": "He ____ my best friend.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Él es mi mejor amigo"
+    },
+    {
+      "sentence": "You ____ very talented.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Tú eres muy talentoso"
+    },
+    {
+      "sentence": "They ____ not happy.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellos no están felices"
+    },
+    {
+      "sentence": "I ____ from Spain.",
+      "answer": "am",
+      "option2": "is",
+      "option3": "are",
+      "meaning": "Yo soy de España"
+    },
+    {
+      "sentence": "The flowers ____ beautiful.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Las flores son hermosas"
+    },
+    {
+      "sentence": "She ____ my sister.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Ella es mi hermana"
+    },
+    {
+      "sentence": "The book ____ on the table.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "El libro está sobre la mesa"
+    },
+    {
+      "sentence": "You ____ not alone.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Tú no estás solo"
+    },
+    {
+      "sentence": "The cow ___ big.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "La vaca es grande"
+    },
+    {
+      "sentence": "The cars ____ blue.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Los carros son azules"
+    },
+    {
+      "sentence": "My brother ____ a doctor",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Mi hermano es doctor"
+    },
+    {
+      "sentence": "I ____ tired",
+      "answer": "am",
+      "option2": "am not",
+      "option3": "are",
+      "meaning": "Estoy cansada"
+    },
+    {
+      "sentence": "She ____ not here right now",
+      "answer": "is",
+      "option2": "is not",
+      "option3": "are",
+      "meaning": "Ella no está aqui en este momento"
+    },
+    {
+      "sentence": "They ____ from Australia",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellas son de Australia"
+    },
+    {
+      "sentence": "We ____ friends",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Somos amigos"
+    },
+    {
+      "sentence": "He ____ an engineer",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Él es ingeniero"
+    },
+    {
+      "sentence": "You ____ a good student",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Eres una buena estudiante"
+    },
+    {
+      "sentence": "___ you ready?",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "¿Estás lista?"
+    },
+    {
+      "sentence": "My dog ___ cute.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Mi perro es lindo."
+    },
+    {
+      "sentence": "They ____ my parents.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellos son mis padres."
+    },
+    {
+      "sentence": "____ you a student?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Eres un estudiante?"
+    },
+    {
+      "sentence": "We ____ happy.",
+      "answer": "are not",
+      "option2": "is not",
+      "option3": "am not",
+      "meaning": "No estamos felices."
+    },
+    {
+      "sentence": "He ____ busy right now.",
+      "answer": "is",
+      "option2": "is not",
+      "option3": "are",
+      "meaning": "Él está ocupado en este momento."
+    },
+    {
+      "sentence": "____ she your sister?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿Ella es tu hermana?"
+    },
+    {
+      "sentence": "I ____ at home.",
+      "answer": "am",
+      "option2": "is",
+      "option3": "are",
+      "meaning": "Estoy en casa."
+    },
+    {
+      "sentence": "The book ____ interesting.",
+      "answer": "is",
+      "option2": "is not",
+      "option3": "are",
+      "meaning": "El libro es interesante."
+    },
+    {
+      "sentence": "____ we late for the meeting?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Estamos tarde para la reunión?"
+    },
+    {
+      "sentence": "You ____ from Spain.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Eres de España."
+    },
+    {
+      "sentence": "I ____ a student",
+      "answer": "am",
+      "option2": "is",
+      "option3": "are",
+      "meaning": "Soy un estudiante"
+    },
+    {
+      "sentence": "She ___ a doctor",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Ella es doctor"
+    },
+    {
+      "sentence": "They ____ good friends",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellos son buenos amigos"
+    },
+    {
+      "sentence": "He ____ not happy",
+      "answer": "is",
+      "option2": "are",
+      "option3": "am",
+      "meaning": "Él no está feliz"
+    },
+    {
+      "sentence": "It ____ a sunny day",
+      "answer": "is",
+      "option2": "are",
+      "option3": "am",
+      "meaning": "Es un día soleado"
+    },
+    {
+      "sentence": "We ____ students",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Nosotros somos estudiantes"
+    },
+    {
+      "sentence": "You ____ not my friend",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Tú no eres mi amigo"
+    },
+    {
+      "sentence": "____ your parents teachers?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Tus padres son profesores?"
+    },
+    {
+      "sentence": "The house ____ big",
+      "answer": "is",
+      "option2": "are",
+      "option3": "am",
+      "meaning": "La casa es grande"
+    },
+    {
+      "sentence": "____ it raining outside?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿Está lloviendo afuera?"
+    },
+    {
+      "sentence": "She ___ a doctor.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Ella es doctora"
+    },
+    {
+      "sentence": "They ___ my friends.",
+      "answer": "are",
+      "option2": "am",
+      "option3": "is",
+      "meaning": "Ellos son mis amigos"
+    },
+    {
+      "sentence": "We ___ happy.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Nosotros somos felices"
+    },
+    {
+      "sentence": "The cat ___ black.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "El gato es negro"
+    },
+    {
+      "sentence": "You ___ tall.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Tú eres alto/a"
+    },
+    {
+      "sentence": "He ___ not here.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Él no está aquí"
+    },
+    {
+      "sentence": "I ___ not happy.",
+      "answer": "am",
+      "option2": "are",
+      "option3": "is",
+      "meaning": "Yo no soy feliz"
+    },
+    {
+      "sentence": "___ you hungry?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Tienes hambre?"
+    },
+    {
+      "sentence": "____ she a teacher?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿Ella es profesora?"
+    },
+    {
+      "sentence": "I ___ happy.",
+      "answer": "am",
+      "option2": "is",
+      "option3": "are",
+      "meaning": "Yo soy feliz"
+    },
+    {
+      "sentence": "You ____ my friend.",
+      "answer": "are",
+      "option2": "am",
+      "option3": "is",
+      "meaning": "Tú eres mi amigo"
+    },
+    {
+      "sentence": "He ____ tall.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Él es alto"
+    },
+    {
+      "sentence": "She ____ a doctor.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Ella es doctora"
+    },
+    {
+      "sentence": "It ____ cold outside.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Hace frío afuera"
+    },
+    {
+      "sentence": "We ____ students.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Nosotros somos estudiantes"
+    },
+    {
+      "sentence": "They ____ not at home.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellos no están en casa"
+    },
+    {
+      "sentence": "I ____ tired.",
+      "answer": "am not",
+      "option2": "is not",
+      "option3": "are not",
+      "meaning": "Yo no estoy cansado"
+    },
+    {
+      "sentence": "He ____ not happy.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Él no es feliz"
+    },
+    {
+      "sentence": "Are ____ ready?",
+      "answer": "you",
+      "option2": "I",
+      "option3": "he",
+      "meaning": "¿Estás listo/a?"
+    },
+    {
+      "sentence": "The cat ___ black.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "El gato es negro"
+    },
+    {
+      "sentence": "My parents ____ at work.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Mis padres están en el trabajo"
+    },
+    {
+      "sentence": "___ your sister a student?",
+      "answer": "Is",
+      "option2": "Am",
+      "option3": "Are",
+      "meaning": "¿Tu hermana es estudiante?"
+    },
+    {
+      "sentence": "I ____ hungry.",
+      "answer": "am not",
+      "option2": "are not",
+      "option3": "is not",
+      "meaning": "No tengo hambre"
+    },
+    {
+      "sentence": "She _____ not here right now",
+      "answer": "is",
+      "option2": "is not",
+      "option3": "are",
+      "meaning": "Ella no está aquí en este momento"
+    },
+    {
+      "sentence": "We ____ from Canada.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Nosotros somos de Canadá"
+    },
+    {
+      "sentence": "They ____ not happy.",
+      "answer": "are",
+      "option2": "is not",
+      "option3": "am",
+      "meaning": "Ellos no son felices"
+    },
+    {
+      "sentence": "______ the concert tonight?",
+      "answer": "Is",
+      "option2": "Am",
+      "option3": "Are",
+      "meaning": "¿Es el concierto esta noche?"
+    },
+    {
+      "sentence": "She _____ an actress.",
+      "answer": "is",
+      "option2": "is not",
+      "option3": "are",
+      "meaning": "Ella es una actriz"
+    },
+    {
+      "sentence": "You ____ not alone.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "No estás solo"
+    },
+    {
+      "sentence": "They _____ my friends.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellos son mis amigos"
+    },
+    {
+      "sentence": "My sister _____ a teacher.",
+      "answer": "is",
+      "option2": "are",
+      "option3": "am",
+      "meaning": "Mi hermana es maestra"
+    },
+    {
+      "sentence": "______ you happy?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Eres feliz?"
+    },
+    {
+      "sentence": "She _____ not feeling well today.",
+      "answer": "is",
+      "option2": "are",
+      "option3": "am",
+      "meaning": "Ella no se siente bien hoy"
+    },
+    {
+      "sentence": "The book _____ on the table.",
+      "answer": "is",
+      "option2": "are",
+      "option3": "am",
+      "meaning": "El libro está en la mesa"
+    },
+    {
+      "sentence": "I _____ from Canada.",
+      "answer": "am",
+      "option2": "is",
+      "option3": "are",
+      "meaning": "Yo soy de Canadá"
+    },
+    {
+      "sentence": "The teacher _____ in the classroom.",
+      "answer": "is",
+      "option2": "are",
+      "option3": "am",
+      "meaning": "La maestra está en el salón"
+    },
+    {
+      "sentence": "We _____ not ready yet.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Aún no estamos listos"
+    },
+    {
+      "sentence": "______ it cold outside?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿Hace frío afuera?"
+    },
+    {
+      "sentence": "They _____ not here right now.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellos no están aquí en este momento"
+    },
+    {
+      "sentence": "____ your name Peter?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿Tu nombre es Peter?"
+    }
+  ]
+}

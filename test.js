@@ -1,0 +1,104 @@
+//Main function
+document.addEventListener("DOMContentLoaded", () => {
+  const sentenceText = document.getElementById("sentence");
+  const sentenceMeanin = document.getElementById("sentenceMeaning");
+  const button1 = document.getElementById("button1");
+  const button2 = document.getElementById("button2");
+  const button3 = document.getElementById("button3");
+  const submit = document.getElementById("submit");
+  const isRight = document.getElementById("isRight");
+  const next = document.getElementById("next");
+  let user = "";
+  let randomExercise = 0;
+  let answerText = "";
+  var exeData;
+
+  getData();
+
+  next.addEventListener("click", function () {
+    newSession(exeData);
+    submit.removeAttribute("disabled");
+  });
+
+  async function getData() {
+    const requestURL =
+      "https://engaged-treat-357819.uc.r.appspot.com/https://storage.googleapis.com/entangled_p_testserver/eslgen/ToBe_data.json";
+
+    //const requestURL = "./ToBe_data.json";
+
+    const request = new Request(requestURL);
+    const response = await fetch(request);
+    exeData = await response.json();
+    console.log(exeData.exercises.length);
+    newSession(exeData);
+  }
+
+  function newSession(obj) {
+    //initialize the page elements values
+    submit.innerHTML = "Check your answer";
+    //isRight.innerHTML = "";
+    user = "";
+    next.setAttribute("disabled", "disabled");
+    /*submit.style.color = "white";*/
+
+    //choose a random exercise
+    randomExercise = Math.floor(Math.random() * obj.exercises.length);
+
+    //shuffle possible answers
+    let choices = [
+      obj.exercises[randomExercise].answer,
+      obj.exercises[randomExercise].option2,
+      obj.exercises[randomExercise].option3,
+    ];
+
+    for (let i = choices.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [choices[i], choices[j]] = [choices[j], choices[i]];
+    }
+
+    //Populate buttons
+    const buttons = document.querySelectorAll(".button-class");
+    buttons.forEach((button, index) => {
+      button.innerHTML = choices[index];
+    });
+
+    //Populate the sentence and the meaning
+    sentenceText.innerHTML = obj.exercises[randomExercise].sentence;
+    sentenceMeanin.innerHTML = obj.exercises[randomExercise].meaning;
+
+    //buttons behaviour
+    button1.addEventListener("click", function () {
+      user = this.innerHTML;
+      submit.innerHTML = "Check your answer";
+      //isRight.innerHTML = user;
+    });
+
+    button2.addEventListener("click", function () {
+      user = this.innerHTML;
+      submit.innerHTML = "Check your answer";
+      //isRight.innerHTML = user;
+    });
+
+    button3.addEventListener("click", function () {
+      user = this.innerHTML;
+      submit.innerHTML = "Check your answer";
+      //isRight.innerHTML = user;
+    });
+
+    //submit button
+    submit.addEventListener("click", function () {
+      answerText = obj.exercises[randomExercise].answer;
+      if (user == answerText) {
+        //isRight.innerHTML = "Correct answer!";
+        submit.innerHTML = "Excellent!";
+        /*submit.style.color = "green";*/
+        submit.setAttribute("disabled", "disabled");
+        next.removeAttribute("disabled");
+      } else {
+        //isRight.innerHTML = "Try again";
+        /*submit.style.color = "red";*/
+        submit.innerHTML = "Try again";
+      }
+    });
+  }
+});

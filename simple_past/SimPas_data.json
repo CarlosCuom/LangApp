@@ -1,0 +1,998 @@
+{
+  "exercises": [
+    {
+      "sentence": "I ___ to the park yesterday.",
+      "answer": "went",
+      "option2": "go",
+      "option3": "gone",
+      "meaning": "Yo fui al parque ayer."
+    },
+    {
+      "sentence": "She ___ a movie last night.",
+      "answer": "watched",
+      "option2": "watches",
+      "option3": "watch",
+      "meaning": "Ella miró una película anoche."
+    },
+    {
+      "sentence": "They ___ a delicious cake for the party.",
+      "answer": "baked",
+      "option2": "bake",
+      "option3": "bakes",
+      "meaning": "Ellos hornearon un pastel delicioso para la fiesta."
+    },
+    {
+      "sentence": "He ___ his homework after school.",
+      "answer": "did",
+      "option2": "do",
+      "option3": "done",
+      "meaning": "Él hizo su tarea después de la escuela."
+    },
+    {
+      "sentence": "We ___ a great time on our vacation.",
+      "answer": "had",
+      "option2": "have",
+      "option3": "has",
+      "meaning": "Nosotros tuvimos un buen tiempo en nuestras vacaciones."
+    },
+    {
+      "sentence": "She ___ a new dress for the event.",
+      "answer": "bought",
+      "option2": "buy",
+      "option3": "buys",
+      "meaning": "Ella compró un vestido nuevo para el evento."
+    },
+    {
+      "sentence": "They ___ their friends at the park.",
+      "answer": "met",
+      "option2": "meet",
+      "option3": "meets",
+      "meaning": "Ellos conocieron a sus amigos en el parque."
+    },
+    {
+      "sentence": "He ___ his bike to school yesterday.",
+      "answer": "rode",
+      "option2": "ride",
+      "option3": "rides",
+      "meaning": "Él montó su bicicleta a la escuela ayer."
+    },
+    {
+      "sentence": "I ___ my grandmother yesterday.",
+      "answer": "visited",
+      "option2": "visit",
+      "option3": "visits",
+      "meaning": "Yo visité a mi abuela ayer."
+    },
+    {
+      "sentence": "She ___ early for work yesterday.",
+      "answer": "arrived",
+      "option2": "arrive",
+      "option3": "arrives",
+      "meaning": "Ella llegó temprano al trabajo ayer."
+    },
+    {
+      "sentence": "I ____ to the park yesterday.",
+      "answer": "went",
+      "option2": "go",
+      "option3": "goes",
+      "meaning": "Fui al parque ayer."
+    },
+    {
+      "sentence": "She _____ her homework last night.",
+      "answer": "did",
+      "option2": "does",
+      "option3": "do",
+      "meaning": "Ella hizo su tarea anoche."
+    },
+    {
+      "sentence": "They ____ a movie on Friday.",
+      "answer": "watched",
+      "option2": "watch",
+      "option3": "watches",
+      "meaning": "Ellos vieron una película el viernes."
+    },
+    {
+      "sentence": "He ____ a new car last month.",
+      "answer": "bought",
+      "option2": "buy",
+      "option3": "buys",
+      "meaning": "Él compró un carro nuevo el mes pasado."
+    },
+    {
+      "sentence": "We ____ a great time on vacation.",
+      "answer": "had",
+      "option2": "have",
+      "option3": "has",
+      "meaning": "Nosotros tuvimos un buen tiempo de vacaciones."
+    },
+    {
+      "sentence": "They ____ to the beach last summer.",
+      "answer": "went",
+      "option2": "go",
+      "option3": "goes",
+      "meaning": "Ellos fueron a la playa el verano pasado."
+    },
+    {
+      "sentence": "She ____ a delicious meal yesterday.",
+      "answer": "cooked",
+      "option2": "cook",
+      "option3": "cooks",
+      "meaning": "Ella cocinó una comida deliciosa ayer."
+    },
+    {
+      "sentence": "He ____ early this morning.",
+      "answer": "woke up",
+      "option2": "wakes up",
+      "option3": "wake up",
+      "meaning": "Él se despertó temprano esta mañana."
+    },
+    {
+      "sentence": "We ____ a party last weekend.",
+      "answer": "had",
+      "option2": "have",
+      "option3": "has",
+      "meaning": "Tuvimos una fiesta el fin de semana pasado."
+    },
+    {
+      "sentence": "They ____ their bikes to school yesterday.",
+      "answer": "rode",
+      "option2": "ride",
+      "option3": "rides",
+      "meaning": "Ellos montaron sus bicicletas a la escuela ayer."
+    },
+    {
+      "sentence": "They ___ a new car last month.",
+      "answer": "bought",
+      "option2": "buy",
+      "option3": "buys",
+      "meaning": "Ellos compraron un carro nuevo el mes pasado."
+    },
+    {
+      "sentence": "We ___ our vacation in Italy.",
+      "answer": "enjoyed",
+      "option2": "enjoy",
+      "option3": "enjoys",
+      "meaning": "Disfrutamos nuestras vacaciones en Italia."
+    },
+    {
+      "sentence": "He ___ a great book yesterday.",
+      "answer": "read",
+      "option2": "reads",
+      "option3": "reading",
+      "meaning": "Él leyó un libro genial ayer."
+    },
+    {
+      "sentence": "She ___ a beautiful painting at the art exhibition.",
+      "answer": "admired",
+      "option2": "admire",
+      "option3": "admires",
+      "meaning": "Ella admiró una hermosa pintura en la exposición de arte."
+    },
+    {
+      "sentence": "I ___ some delicious food at the party.",
+      "answer": "ate",
+      "option2": "eat",
+      "option3": "eats",
+      "meaning": "Yo comí comida deliciosa en la fiesta."
+    },
+    {
+      "sentence": "They ___ to the beach yesterday.",
+      "answer": "went",
+      "option2": "go",
+      "option3": "goes",
+      "meaning": "Ellos fueron a la playa ayer."
+    },
+    {
+      "sentence": "He ___ his favorite song on the radio.",
+      "answer": "heard",
+      "option2": "hear",
+      "option3": "hears",
+      "meaning": "Él escuchó su canción favorita en la radio."
+    },
+    {
+      "sentence": "We ___ a lot of pictures on our vacation.",
+      "answer": "took",
+      "option2": "take",
+      "option3": "takes",
+      "meaning": "Tomamos muchas fotos en nuestras vacaciones."
+    },
+    {
+      "sentence": "She ___ her friend at the mall.",
+      "answer": "met",
+      "option2": "meet",
+      "option3": "meets",
+      "meaning": "Ella se encontró con su amiga en el centro comercial."
+    },
+    {
+      "sentence": "I ___ a very interesting article in the newspaper.",
+      "answer": "read",
+      "option2": "reads",
+      "option3": "reading",
+      "meaning": "Yo leí un artículo muy interesante en el periódico."
+    },
+    {
+      "sentence": "She ___ to the store yesterday.",
+      "answer": "went",
+      "option2": "go",
+      "option3": "gone",
+      "meaning": "Ella fue a la tienda ayer."
+    },
+    {
+      "sentence": "He ___ his homework last night.",
+      "answer": "did",
+      "option2": "do",
+      "option3": "done",
+      "meaning": "Él hizo su tarea anoche."
+    },
+    {
+      "sentence": "We ___ a movie on Friday.",
+      "answer": "watched",
+      "option2": "watch",
+      "option3": "watching",
+      "meaning": "Vimos una película el viernes."
+    },
+    {
+      "sentence": "They ___ a new car last week.",
+      "answer": "bought",
+      "option2": "buy",
+      "option3": "buying",
+      "meaning": "Compraron un carro nuevo la semana pasada."
+    },
+    {
+      "sentence": "I ____ her at the party yesterday.",
+      "answer": "saw",
+      "option2": "see",
+      "option3": "seen",
+      "meaning": "La vi en la fiesta ayer."
+    },
+    {
+      "sentence": "He ___ to the concert last night.",
+      "answer": "went",
+      "option2": "go",
+      "option3": "gone",
+      "meaning": "Él fue al concierto anoche."
+    },
+    {
+      "sentence": "She watched a movie yesterday.",
+      "answer": "Ella miró una película ayer.",
+      "option2": "Ella ve una película ayer.",
+      "option3": "Ella verá una película mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "He played soccer with his friends.",
+      "answer": "Él jugó al fútbol con sus amigos.",
+      "option2": "Él juega al fútbol con sus amigos.",
+      "option3": "Él jugará al fútbol con sus amigos.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "I bought a new book yesterday.",
+      "answer": "Yo compré un libro nuevo ayer.",
+      "option2": "Yo compro un libro nuevo ayer.",
+      "option3": "Yo compraré un libro nuevo mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "They visited their grandparents last weekend.",
+      "answer": "Ellos visitaron a sus abuelos el fin de semana pasado.",
+      "option2": "Ellos visitan a sus abuelos el fin de semana pasado.",
+      "option3": "Ellos visitarán a sus abuelos mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "He wrote a letter to his best friend.",
+      "answer": "Él escribió una carta a su mejor amigo.",
+      "option2": "Él escribe una carta a su mejor amigo.",
+      "option3": "Él escribirá una carta a su mejor amigo mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "She visited her aunt in the hospital.",
+      "answer": "Ella visitó a su tía en el hospital.",
+      "option2": "Ella visita a su tía en el hospital.",
+      "option3": "Ella visitará a su tía en el hospital mañana.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "They traveled to Europe last summer.",
+      "answer": "Ellos viajaron a Europa el verano pasado.",
+      "option2": "Ellos viajan a Europa el verano pasado.",
+      "option3": "Ellos viajarán a Europa el verano pasado.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "He fixed his car by himself.",
+      "answer": "Él arregló su auto por sí mismo.",
+      "option2": "Él arregla su auto por sí mismo.",
+      "option3": "Él arreglará su auto por sí mismo mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "She cooked a delicious dinner for her family.",
+      "answer": "Ella cocinó una deliciosa cena para su familia.",
+      "option2": "Ella cocina una deliciosa cena para su familia.",
+      "option3": "Ella cocinará una deliciosa cena para su familia mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "They drank coffee at the cafe.",
+      "answer": "Ellos tomaron café en el café.",
+      "option2": "Ellos toman café en el café.",
+      "option3": "Ellos tomarán café en el café mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "She sang a beautiful song in the talent show.",
+      "answer": "Ella cantó una hermosa canción en el concurso de talentos.",
+      "option2": "Ella canta una hermosa canción en el concurso de talentos.",
+      "option3": "Ella cantará una hermosa canción en el concurso de talentos mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "He opened the door for her.",
+      "answer": "Él abrió la puerta para ella.",
+      "option2": "Él abre la puerta para ella.",
+      "option3": "Él abrirá la puerta para ella mañana.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "They rode their bikes to the park.",
+      "answer": "Ellos anduvieron en bicicleta al parque.",
+      "option2": "Ellos andan en bicicleta al parque.",
+      "option3": "Ellos andarán en bicicleta al parque mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "She cleaned her room yesterday.",
+      "answer": "Ella limpió su habitación ayer.",
+      "option2": "Ella limpia su habitación ayer.",
+      "option3": "Ella limpiará su habitación mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "He visited his grandmother in the nursing home.",
+      "answer": "Él visitó a su abuela en el hogar de ancianos.",
+      "option2": "Él visita a su abuela en el hogar de ancianos.",
+      "option3": "Él visitará a su abuela en el hogar de ancianos.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "They celebrated their anniversary last week.",
+      "answer": "Ellos celebraron su aniversario la semana pasada.",
+      "option2": "Ellos celebran su aniversario la semana pasada.",
+      "option3": "Ellos celebrarán su aniversario mañana.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "She finished her work on time.",
+      "answer": "Ella terminó su trabajo a tiempo.",
+      "option2": "Ella termina su trabajo a tiempo.",
+      "option3": "Ella terminará su trabajo mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "He lost his keys and couldn't find them.",
+      "answer": "Él perdió sus llaves y no pudo encontrarlas.",
+      "option2": "Él pierde sus llaves y no puede encontrarlas.",
+      "option3": "Él perderá sus llaves y no podrá encontrarlas.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "She bought a new laptop.",
+      "answer": "Ella compró una nueva computadora portátil.",
+      "option2": "Ella compra una nueva computadora portátil.",
+      "option3": "Ella comprará una nueva computadora portátil mañana.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "He went to the gym after work.",
+      "answer": "Él fue al gimnasio después del trabajo.",
+      "option2": "Él va al gimnasio después del trabajo.",
+      "option3": "Él irá al gimnasio después del trabajo.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "They cleaned the house for their guests.",
+      "answer": "Ellos limpiaron la casa para sus invitados.",
+      "option2": "Ellos limpian la casa para sus invitados.",
+      "option3": "Ellos limpiarán la casa para sus invitados.",
+      "meaning": "Translate the sentence"
+    },
+    {
+      "sentence": "She ___ a cake for her birthday.",
+      "answer": "baked",
+      "option2": "bake",
+      "option3": "baking",
+      "meaning": "Ella horneó un pastel para su cumpleaños."
+    },
+    {
+      "sentence": "We ___ a great time at the party.",
+      "answer": "had",
+      "option2": "have",
+      "option3": "having",
+      "meaning": "Nosotros lo pasamos muy bien en la fiesta."
+    },
+    {
+      "sentence": "They ___ their dog for a walk.",
+      "answer": "took",
+      "option2": "take",
+      "option3": "taking",
+      "meaning": "Ellos sacaron a su perro a pasear."
+    },
+    {
+      "sentence": "I ____ a new phone last month.",
+      "answer": "bought",
+      "option2": "buy",
+      "option3": "buying",
+      "meaning": "Compré un teléfono nuevo el mes pasado."
+    },
+    {
+      "sentence": "He ___ his job to travel around the world.",
+      "answer": "quit",
+      "option2": "quits",
+      "option3": "quitted",
+      "meaning": "El renunció a su trabajo para viajar por el mundo."
+    },
+    {
+      "sentence": "She ___ English at the language school.",
+      "answer": "studied",
+      "option2": "study",
+      "option3": "studying",
+      "meaning": "Ella estudió inglés en la escuela de idiomas."
+    },
+    {
+      "sentence": "They ___ up late last night.",
+      "answer": "stayed",
+      "option2": "stay",
+      "option3": "staying",
+      "meaning": "Se quedaron despiertos hasta tarde anoche."
+    },
+    {
+      "sentence": "He ___ a book for his birthday.",
+      "answer": "received",
+      "option2": "receive",
+      "option3": "receiving",
+      "meaning": "Él recibió un libro para su cumpleaños."
+    },
+    {
+      "sentence": "We ___ our friends at the restaurant.",
+      "answer": "met",
+      "option2": "meet",
+      "option3": "meeting",
+      "meaning": "Nos encontramos con nuestros amigos en el restaurante."
+    },
+    {
+      "sentence": "I ___ a bicycle when I was younger.",
+      "answer": "rode",
+      "option2": "ride",
+      "option3": "riding",
+      "meaning": "Montaba en bicicleta cuando era más joven."
+    },
+    {
+      "sentence": "They ___ pizza for dinner.",
+      "answer": "ate",
+      "option2": "eat",
+      "option3": "eating",
+      "meaning": "Ellos comieron pizza para la cena."
+    },
+    {
+      "sentence": "He ___ a new job last month.",
+      "answer": "started",
+      "option2": "start",
+      "option3": "starting",
+      "meaning": "Él consiguió un nuevo trabajo el mes pasado."
+    },
+    {
+      "sentence": "She ___ the bus to work this morning.",
+      "answer": "took",
+      "option2": "take",
+      "option3": "taking",
+      "meaning": "Ella tomó el autobús al trabajo esta mañana."
+    },
+    {
+      "sentence": "We ___ a nice vacation last summer.",
+      "answer": "had",
+      "option2": "have",
+      "option3": "having",
+      "meaning": "Tuvimos unas vacaciones agradables el verano pasado."
+    },
+    {
+      "sentence": "They ___ a fun party for their friends.",
+      "answer": "threw",
+      "option2": "throw",
+      "option3": "throwing",
+      "meaning": "Organizaron una fiesta divertida para sus amigos."
+    },
+    {
+      "sentence": "She ___ to the party last night.",
+      "answer": "didn't go",
+      "option2": "didn't went",
+      "option3": "doesn't go",
+      "meaning": "Ella no fue a la fiesta anoche."
+    },
+    {
+      "sentence": "___ you watch the movie last weekend?",
+      "answer": "Did",
+      "option2": "Do",
+      "option3": "Does",
+      "meaning": "¿Viste la película el fin de semana pasado?"
+    },
+    {
+      "sentence": "He ___ the race.",
+      "answer": "didn't win",
+      "option2": "didn't won",
+      "option3": "don't win",
+      "meaning": "Él no ganó la carrera."
+    },
+    {
+      "sentence": "Did they ___ the exam yesterday?",
+      "answer": "pass",
+      "option2": "passed",
+      "option3": "passes",
+      "meaning": "¿Pasaron el examen ayer?"
+    },
+    {
+      "sentence": "We ___ a great time at the party.",
+      "answer": "didn't have",
+      "option2": "didn't had",
+      "option3": "don't have",
+      "meaning": "No tuvimos un buen tiempo en la fiesta."
+    },
+    {
+      "sentence": "Nadé en la piscina ayer.",
+      "answer": "I swam in the pool yesterday.",
+      "option2": "I will swim in the pool tomorrow.",
+      "option3": "I am swimming in the pool today.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mis padres compraron un nuevo coche la semana pasada.",
+      "answer": "My parents bought a new car last week.",
+      "option2": "My parents will buy a new car next week.",
+      "option3": "My parents buy a new car every week.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ayer vi una película en el cine.",
+      "answer": "Yesterday, I watched a movie at the cinema.",
+      "option2": "Tomorrow, I will watch a movie at the cinema.",
+      "option3": "Everyday, I watch a movie at the cinema.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Tomé un café esta mañana.",
+      "answer": "I had a coffee this morning.",
+      "option2": "I will have a coffee tomorrow morning.",
+      "option3": "I have a coffee every morning.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Él estudió toda la noche para el examen.",
+      "answer": "He studied all night for the exam.",
+      "option2": "He will study all night for the exam.",
+      "option3": "He studies all night for the exam.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mis amigos bailaron en la fiesta anoche.",
+      "answer": "My friends danced at the party last night.",
+      "option2": "My friends will dance at the party tonight.",
+      "option3": "My friends dance at the party every night.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Conocí a mi mejor amiga en la escuela primaria.",
+      "answer": "I met my best friend in elementary school.",
+      "option2": "I will meet my best friend in elementary school.",
+      "option3": "I meet my best friend in elementary school.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ella cantó hermosamente en el concierto.",
+      "answer": "She sang beautifully at the concert.",
+      "option2": "She will sing beautifully at the concert.",
+      "option3": "She sings beautifully at the concert.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mis abuelos visitaron a mi familia el verano pasado.",
+      "answer": "My grandparents visited my family last summer.",
+      "option2": "My grandparents will visit my family next summer.",
+      "option3": "My grandparents visit my family every summer.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mis hermanos y yo jugamos fútbol en el parque ayer.",
+      "answer": "My brothers and I played soccer in the park yesterday.",
+      "option2": "My brothers and I will play soccer in the park tomorrow.",
+      "option3": "My brothers and I play soccer in the park every day.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mi madre cocinó una cena deliciosa anoche.",
+      "answer": "My mother cooked a delicious dinner last night.",
+      "option2": "My mother will cook a delicious dinner tonight.",
+      "option3": "My mother cooks a delicious dinner every night.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Él corrió en la maratón el mes pasado.",
+      "answer": "He ran in the marathon last month.",
+      "option2": "He will run in the marathon next month.",
+      "option3": "He runs in the marathon every month.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Yo escribí una poema para mi novia.",
+      "answer": "I wrote a poem for my girlfriend.",
+      "option2": "I will write a poem for my girlfriend.",
+      "option3": "I write a poem for my girlfriend.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ella paseó su perro en el parque esta mañana.",
+      "answer": "She walked her dog in the park this morning.",
+      "option2": "She will walk her dog in the park tomorrow morning.",
+      "option3": "She walks her dog in the park every morning.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Estudié para el examen toda la noche.",
+      "answer": "I studied for the exam all night.",
+      "option2": "I will study for the exam all night.",
+      "option3": "I study for the exam all night.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ellos volaron a Europa para sus vacaciones.",
+      "answer": "They flew to Europe for their vacation.",
+      "option2": "They will fly to Europe for their vacation.",
+      "option3": "They fly to Europe for their vacation.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Nosotros tomamos el autobús al trabajo todos los días.",
+      "answer": "We took the bus to work every day.",
+      "option2": "We will take the bus to work every day.",
+      "option3": "We take the bus to work every day.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Visitamos a nuestros abuelos durante las vacaciones de Navidad.",
+      "answer": "We visited our grandparents during the Christmas holidays.",
+      "option2": "We will visit our grandparents during the Christmas holidays.",
+      "option3": "We visit our grandparents during the Christmas holidays.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Fuimos a un concierto de rock la semana pasada.",
+      "answer": "We went to a rock concert last week.",
+      "option2": "We will go to a rock concert next week.",
+      "option3": "We go to a rock concert every week.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ellas leyeron un libro interesante en el parque ayer.",
+      "answer": "They read an interesting book in the park yesterday.",
+      "option2": "They will read an interesting book in the park tomorrow.",
+      "option3": "They read an interesting book in the park every day.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Perdí el tren esta mañana.",
+      "answer": "I missed the train this morning.",
+      "option2": "I will miss the train tomorrow morning.",
+      "option3": "I miss the train every morning.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "___ he finish his work on time?",
+      "answer": "Did",
+      "option2": "Does",
+      "option3": "Do",
+      "meaning": "¿Terminó él su trabajo a tiempo?"
+    },
+    {
+      "sentence": "She ___ me a gift for my birthday.",
+      "answer": "didn't give",
+      "option2": "didn't gave",
+      "option3": "doesn't give",
+      "meaning": "No me dio un regalo para mi cumpleaños."
+    },
+    {
+      "sentence": "___ they go on vacation last month?",
+      "answer": "Did",
+      "option2": "Does",
+      "option3": "Do",
+      "meaning": "¿Fueron ellos de vacaciones el mes pasado?"
+    },
+    {
+      "sentence": "They ___ late for the meeting.",
+      "answer": "didn't arrive",
+      "option2": "didn't arrived",
+      "option3": "doesn't arrive",
+      "meaning": "Ellos no llegaron tarde a la reunión."
+    },
+    {
+      "sentence": "Did she ___ her phone at work?",
+      "answer": "lose",
+      "option2": "lost",
+      "option3": "loses",
+      "meaning": "¿Perdió ella su teléfono en el trabajo?"
+    },
+    {
+      "sentence": "We ___ the television series last night.",
+      "answer": "didn't watch",
+      "option2": "didn't watched",
+      "option3": "don't watch",
+      "meaning": "No vimos la serie de televisión anoche."
+    },
+    {
+      "sentence": "___ they find the lost dog?",
+      "answer": "Did",
+      "option2": "Do",
+      "option3": "Does",
+      "meaning": "¿Ellos encontraron a su perro perdido?"
+    },
+    {
+      "sentence": "I ___ to the park yesterday.",
+      "answer": "went",
+      "option2": "go",
+      "option3": "gone",
+      "meaning": "Yo fui al parque ayer."
+    },
+    {
+      "sentence": "He ___ his homework after school.",
+      "answer": "did",
+      "option2": "do",
+      "option3": "done",
+      "meaning": "Él hizo su tarea después de la escuela."
+    },
+    {
+      "sentence": "He ____ woke up early this morning.",
+      "answer": "did not",
+      "option2": "does not",
+      "option3": "is not",
+      "meaning": "Él se despertó temprano esta mañana."
+    },
+    {
+      "sentence": "___ she cook a delicious meal?",
+      "answer": "Did",
+      "option2": "Does",
+      "option3": "Do",
+      "meaning": "¿Ella cocinó una comida deliciosa?"
+    },
+    {
+      "sentence": "Did they ____ to the beach last summer?",
+      "answer": "go",
+      "option2": "went",
+      "option3": "goes",
+      "meaning": "¿Ellos fueron a la playa el verano pasado?"
+    },
+    {
+      "sentence": "They ___ to the party last night.",
+      "answer": "did not go",
+      "option2": "does not go",
+      "option3": "is not go",
+      "meaning": "Ellos no fueron a la fiesta anoche."
+    },
+    {
+      "sentence": "___ she like the movie?",
+      "answer": "Did",
+      "option2": "Does",
+      "option3": "Do",
+      "meaning": "¿Le gustó la película?"
+    },
+    {
+      "sentence": "She ___ to the gym this morning.",
+      "answer": "did not go",
+      "option2": "does not go",
+      "option3": "is not go",
+      "meaning": "Ella no fue al gimnasio esta mañana."
+    },
+    {
+      "sentence": "Did you ___ your homework yet?",
+      "answer": "do",
+      "option2": "does",
+      "option3": "did",
+      "meaning": "¿Hiciste tu tarea ya?"
+    },
+    {
+      "sentence": "We ___ a great time at the party.",
+      "answer": "had",
+      "option2": "has",
+      "option3": "have",
+      "meaning": "Nos divertimos mucho en la fiesta."
+    },
+    {
+      "sentence": "They ___ their lunch at the restaurant.",
+      "answer": "did not have",
+      "option2": "does not have",
+      "option3": "is not have",
+      "meaning": "Ellos no almorzaron en el restaurante."
+    },
+    {
+      "sentence": "___ you study for the test?",
+      "answer": "Did",
+      "option2": "Does",
+      "option3": "Do",
+      "meaning": "¿Estudiaste para la prueba?"
+    },
+    {
+      "sentence": "She ___ her keys at work.",
+      "answer": "did not find",
+      "option2": "does not find",
+      "option3": "is not find",
+      "meaning": "Ella no encontró sus llaves en el trabajo."
+    },
+    {
+      "sentence": "___ they go on vacation last month?",
+      "answer": "Did",
+      "option2": "Does",
+      "option3": "Do",
+      "meaning": "¿Se fueron de vacaciones el mes pasado?"
+    },
+    {
+      "sentence": "He ___ his sister yesterday.",
+      "answer": "did not see",
+      "option2": "does not see",
+      "option3": "is not see",
+      "meaning": "Él no vio a su hermana ayer."
+    },
+    {
+      "sentence": "Did you ___ to the party last night?",
+      "answer": "go",
+      "option2": "went",
+      "option3": "goes",
+      "meaning": "¿Fuiste a la fiesta anoche?"
+    },
+    {
+      "sentence": "She ___ her breakfast this morning.",
+      "answer": "did not finish",
+      "option2": "does not finish",
+      "option3": "is not finish",
+      "meaning": "Ella no terminó su desayuno esta mañana."
+    },
+    {
+      "sentence": "___ they watch the football game on TV?",
+      "answer": "Did",
+      "option2": "Does",
+      "option3": "Do",
+      "meaning": "¿Vieron el partido de fútbol en la televisión?"
+    },
+    {
+      "sentence": "He ___ his bicycle yesterday.",
+      "answer": "did not ride",
+      "option2": "does not ride",
+      "option3": "is not ride",
+      "meaning": "Él no anduvo en bicicleta ayer."
+    },
+    {
+      "sentence": "Did you ___ to the museum last week?",
+      "answer": "go",
+      "option2": "went",
+      "option3": "goes",
+      "meaning": "¿Fuiste al museo la semana pasada?"
+    },
+    {
+      "sentence": "We ___ a great time on our vacation.",
+      "answer": "did not have",
+      "option2": "does not have",
+      "option3": "is not have",
+      "meaning": "No tuvimos una gran experiencia en nuestras vacaciones."
+    },
+    {
+      "sentence": "I ___ to the park yesterday.",
+      "answer": "went",
+      "option2": "go",
+      "option3": "gone",
+      "meaning": "Yo fui al parque ayer."
+    },
+    {
+      "sentence": "He ___ his homework after school.",
+      "answer": "did",
+      "option2": "do",
+      "option3": "done",
+      "meaning": "Él hizo su tarea después de la escuela."
+    },
+    {
+      "sentence": "He ____ woke up early this morning.",
+      "answer": "did not",
+      "option2": "does not",
+      "option3": "is not",
+      "meaning": "Él se despertó temprano esta mañana."
+    },
+    {
+      "sentence": "___ she cook a delicious meal?",
+      "answer": "Did",
+      "option2": "Does",
+      "option3": "Do",
+      "meaning": "¿Ella cocinó una comida deliciosa?"
+    },
+    {
+      "sentence": "Did they ____ to the beach last summer?",
+      "answer": "go",
+      "option2": "went",
+      "option3": "goes",
+      "meaning": "¿Ellos fueron a la playa el verano pasado?"
+    },
+    {
+      "sentence": "We ___ basketball in the park yesterday.",
+      "answer": "played",
+      "option2": "play",
+      "option3": "plays",
+      "meaning": "Jugamos al baloncesto en el parque ayer."
+    },
+    {
+      "sentence": "She ___ to her favorite song in the car.",
+      "answer": "listened",
+      "option2": "listen",
+      "option3": "listens",
+      "meaning": "Ella escuchó su canción favorita en el coche."
+    },
+    {
+      "sentence": "They ____ their grandparents on the weekend.",
+      "answer": "visited",
+      "option2": "visit",
+      "option3": "visits",
+      "meaning": "Ellos visitaron a sus abuelos en el fin de semana."
+    },
+    {
+      "sentence": "___ you have a good time at the party?",
+      "answer": "Did",
+      "option2": "Do",
+      "option3": "Does",
+      "meaning": "¿Te divertiste en la fiesta?"
+    },
+    {
+      "sentence": "We ___ at a new restaurant last night.",
+      "answer": "ate",
+      "option2": "eat",
+      "option3": "eats",
+      "meaning": "Comimos en un restaurante nuevo anoche."
+    },
+    {
+      "sentence": "She ____ in the race and won first place.",
+      "answer": "competed",
+      "option2": "compete",
+      "option3": "competes",
+      "meaning": "Ella compitió en la carrera y ganó el primer lugar."
+    },
+    {
+      "sentence": "He ____ all night to finish the project.",
+      "answer": "worked",
+      "option2": "work",
+      "option3": "works",
+      "meaning": "Él trabajó toda la noche para terminar el proyecto."
+    },
+    {
+      "sentence": "Did you ___ the movie last night?",
+      "answer": "watch",
+      "option2": "watches",
+      "option3": "watched",
+      "meaning": "¿Viste la película anoche?"
+    },
+    {
+      "sentence": "They ___ a lot of pictures on their vacation.",
+      "answer": "took",
+      "option2": "take",
+      "option3": "takes",
+      "meaning": "Ellos tomaron muchas fotos en sus vacaciones."
+    },
+    {
+      "sentence": "He ____ about his trip to Europe.",
+      "answer": "talked",
+      "option2": "talk",
+      "option3": "talks",
+      "meaning": "Él habló sobre su viaje a Europa."
+    },
+    {
+      "sentence": "She ___ her car last week.",
+      "answer": "sold",
+      "option2": "sell",
+      "option3": "sells",
+      "meaning": "Ella vendió su coche la semana pasada."
+    }
+  ]
+}

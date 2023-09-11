@@ -1,0 +1,388 @@
+{
+  "nouns": [
+    {
+      "word": "banana",
+      "meaning": "plátano",
+      "option2": "manzana",
+      "option3": "naranja"
+    },
+    {
+      "word": "house",
+      "meaning": "casa",
+      "option2": "coche",
+      "option3": "árbol"
+    },
+    {
+      "word": "cat",
+      "meaning": "gato",
+      "option2": "perro",
+      "option3": "pájaro"
+    },
+    {
+      "word": "book",
+      "meaning": "libro",
+      "option2": "lápiz",
+      "option3": "papel"
+    },
+    {
+      "word": "table",
+      "meaning": "mesa",
+      "option2": "silla",
+      "option3": "estante"
+    },
+    {
+      "word": "water",
+      "meaning": "agua",
+      "option2": "leche",
+      "option3": "jugo"
+    },
+    {
+      "word": "friend",
+      "meaning": "amigo",
+      "option2": "hermano",
+      "option3": "padre"
+    },
+    {
+      "word": "car",
+      "meaning": "coche",
+      "option2": "tren",
+      "option3": "avión"
+    },
+    {
+      "word": "teacher",
+      "meaning": "maestro",
+      "option2": "estudiante",
+      "option3": "médico"
+    },
+    {
+      "word": "food",
+      "meaning": "comida",
+      "option2": "bebida",
+      "option3": "postre"
+    },
+    {
+      "word": "computer",
+      "meaning": "computadora",
+      "option2": "televisor",
+      "option3": "radio"
+    },
+    {
+      "word": "pencil",
+      "meaning": "lápiz",
+      "option2": "pluma",
+      "option3": "bolígrafo"
+    },
+    {
+      "word": "clock",
+      "meaning": "reloj",
+      "option2": "televisión",
+      "option3": "radio"
+    },
+    {
+      "word": "phone",
+      "meaning": "teléfono",
+      "option2": "ordenador",
+      "option3": "televisión"
+    },
+    {
+      "word": "music",
+      "meaning": "música",
+      "option2": "arte",
+      "option3": "baile"
+    },
+    {
+      "word": "shoes",
+      "meaning": "zapatos",
+      "option2": "sombrero",
+      "option3": "pantalones"
+    },
+    {
+      "word": "bed",
+      "meaning": "cama",
+      "option2": "mesa",
+      "option3": "silla"
+    },
+    {
+      "word": "family",
+      "meaning": "familia",
+      "option2": "amigo",
+      "option3": "vecino"
+    },
+    {
+      "word": "city",
+      "meaning": "ciudad",
+      "option2": "país",
+      "option3": "pueblo"
+    },
+    {
+      "word": "bag",
+      "meaning": "bolso",
+      "option2": "mochila",
+      "option3": "lápiz"
+    },
+    {
+      "word": "breakfast",
+      "meaning": "desayuno",
+      "option2": "almuerzo",
+      "option3": "cena"
+    },
+    {
+      "word": "friendship",
+      "meaning": "amistad",
+      "option2": "amor",
+      "option3": "odio"
+    },
+    {
+      "word": "game",
+      "meaning": "juego",
+      "option2": "deporte",
+      "option3": "competición"
+    },
+    {
+      "word": "map",
+      "meaning": "mapa",
+      "option2": "libro",
+      "option3": "diario"
+    },
+    {
+      "word": "summer",
+      "meaning": "verano",
+      "option2": "invierno",
+      "option3": "otoño"
+    },
+    {
+      "word": "city",
+      "meaning": "ciudad",
+      "option2": "campo",
+      "option3": "playa"
+    },
+    {
+      "word": "school",
+      "meaning": "escuela",
+      "option2": "trabajo",
+      "option3": "casa"
+    },
+    {
+      "word": "doctor",
+      "meaning": "médico",
+      "option2": "enfermero",
+      "option3": "paciente"
+    },
+    {
+      "word": "musician",
+      "meaning": "músico",
+      "option2": "artista",
+      "option3": "actor"
+    },
+    {
+      "word": "bus",
+      "meaning": "autobús",
+      "option2": "coche",
+      "option3": "tren"
+    },
+    {
+      "word": "cat",
+      "meaning": "gato",
+      "option2": "perro",
+      "option3": "árbol"
+    },
+    {
+      "word": "dog",
+      "meaning": "perro",
+      "option2": "gato",
+      "option3": "mesa"
+    },
+    {
+      "word": "house",
+      "meaning": "casa",
+      "option2": "escuela",
+      "option3": "coche"
+    },
+    {
+      "word": "car",
+      "meaning": "coche",
+      "option2": "moto",
+      "option3": "silla"
+    },
+    {
+      "word": "book",
+      "meaning": "libro",
+      "option2": "mesa",
+      "option3": "lapicera"
+    },
+    {
+      "word": "table",
+      "meaning": "mesa",
+      "option2": "silla",
+      "option3": "coche"
+    },
+    {
+      "word": "pen",
+      "meaning": "lapicera",
+      "option2": "libro",
+      "option3": "casa"
+    },
+    {
+      "word": "window",
+      "meaning": "ventana",
+      "option2": "puerta",
+      "option3": "pared"
+    },
+    {
+      "word": "door",
+      "meaning": "puerta",
+      "option2": "ventana",
+      "option3": "suelo"
+    },
+    {
+      "word": "teacher",
+      "meaning": "profesor",
+      "option2": "alumno",
+      "option3": "hermano"
+    },
+    {
+      "word": "student",
+      "meaning": "alumno",
+      "option2": "profesor",
+      "option3": "amigo"
+    },
+    {
+      "word": "friend",
+      "meaning": "amigo",
+      "option2": "hermano",
+      "option3": "padre"
+    },
+    {
+      "word": "mother",
+      "meaning": "madre",
+      "option2": "padre",
+      "option3": "hermana"
+    },
+    {
+      "word": "father",
+      "meaning": "padre",
+      "option2": "madre",
+      "option3": "abuelo"
+    },
+    {
+      "word": "brother",
+      "meaning": "hermano",
+      "option2": "amigo",
+      "option3": "hermana"
+    },
+    {
+      "word": "sister",
+      "meaning": "hermana",
+      "option2": "madre",
+      "option3": "amiga"
+    },
+    {
+      "word": "house",
+      "meaning": "casa",
+      "option2": "escuela",
+      "option3": "coche"
+    },
+    {
+      "word": "car",
+      "meaning": "coche",
+      "option2": "moto",
+      "option3": "silla"
+    },
+    {
+      "word": "book",
+      "meaning": "libro",
+      "option2": "mesa",
+      "option3": "lapicera"
+    },
+    {
+      "word": "table",
+      "meaning": "mesa",
+      "option2": "silla",
+      "option3": "coche"
+    },
+    {
+      "word": "pen",
+      "meaning": "lapicera",
+      "option2": "libro",
+      "option3": "casa"
+    },
+    {
+      "word": "window",
+      "meaning": "ventana",
+      "option2": "puerta",
+      "option3": "pared"
+    },
+    {
+      "word": "door",
+      "meaning": "puerta",
+      "option2": "ventana",
+      "option3": "suelo"
+    },
+    {
+      "word": "teacher",
+      "meaning": "profesor",
+      "option2": "alumno",
+      "option3": "hermano"
+    },
+    {
+      "word": "student",
+      "meaning": "alumno",
+      "option2": "profesor",
+      "option3": "amigo"
+    },
+    {
+      "word": "friend",
+      "meaning": "amigo",
+      "option2": "hermano",
+      "option3": "padre"
+    },
+    {
+      "word": "mother",
+      "meaning": "madre",
+      "option2": "padre",
+      "option3": "hermana"
+    },
+    {
+      "word": "father",
+      "meaning": "padre",
+      "option2": "madre",
+      "option3": "abuelo"
+    },
+    {
+      "word": "brother",
+      "meaning": "hermano",
+      "option2": "amigo",
+      "option3": "hermana"
+    },
+    {
+      "word": "sister",
+      "meaning": "hermana",
+      "option2": "madre",
+      "option3": "amiga"
+    },
+    {
+      "word": "computer",
+      "meaning": "ordenador",
+      "option2": "teléfono",
+      "option3": "televisión"
+    },
+    {
+      "word": "phone",
+      "meaning": "teléfono",
+      "option2": "ordenador",
+      "option3": "cámera"
+    },
+    {
+      "word": "tv",
+      "meaning": "televisión",
+      "option2": "radio",
+      "option3": "ordenador"
+    },
+    {
+      "word": "radio",
+      "meaning": "radio",
+      "option2": "televisión",
+      "option3": "teléfono"
+    }
+  ]
+}

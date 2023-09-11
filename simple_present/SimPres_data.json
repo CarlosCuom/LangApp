@@ -1,0 +1,705 @@
+{
+  "exercises": [
+    {
+      "sentence": "I ___ to school every day.",
+      "answer": "go",
+      "option2": "goes",
+      "option3": "going",
+      "meaning": "Voy a la escuela todos los días."
+    },
+    {
+      "sentence": "She ___ basketball on the weekends.",
+      "answer": "plays",
+      "option2": "play",
+      "option3": "playing",
+      "meaning": "Ella juega baloncesto los fines de semana."
+    },
+    {
+      "sentence": "They ___ pizza for dinner often.",
+      "answer": "eat",
+      "option2": "eats",
+      "option3": "eating",
+      "meaning": "Ellos comen pizza para la cena a menudo."
+    },
+    {
+      "sentence": "He ___ a book before bed every night.",
+      "answer": "reads",
+      "option2": "read",
+      "option3": "reading",
+      "meaning": "Él lee un libro antes de dormir todas las noches."
+    },
+    {
+      "sentence": "We ___ a soccer game tomorrow.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "having",
+      "meaning": "Nosotros tenemos un partido de fútbol mañana."
+    },
+    {
+      "sentence": "You ___ English very well.",
+      "answer": "speak",
+      "option2": "speaks",
+      "option3": "speaking",
+      "meaning": "Tú hablas inglés muy bien."
+    },
+    {
+      "sentence": "The sun ___ in the sky.",
+      "answer": "shines",
+      "option2": "shine",
+      "option3": "will shine",
+      "meaning": "El sol brilla en el cielo."
+    },
+    {
+      "sentence": "The dog ____ black.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "El perro es negro."
+    },
+    {
+      "sentence": "They ____ basketball on the weekends.",
+      "answer": "play",
+      "option2": "plays",
+      "option3": "playing",
+      "meaning": "Ellos juegan baloncesto los fines de semana."
+    },
+    {
+      "sentence": "She ____ to school every day.",
+      "answer": "goes",
+      "option2": "go",
+      "option3": "going",
+      "meaning": "Ella va a la escuela todos los días."
+    },
+    {
+      "sentence": "He ____ coffee in the morning.",
+      "answer": "drinks",
+      "option2": "drink",
+      "option3": "drinking",
+      "meaning": "Él toma café en la mañana"
+    },
+    {
+      "sentence": "We ____ English at school.",
+      "answer": "study",
+      "option2": "studies",
+      "option3": "studying",
+      "meaning": "Estudiamos inglés en la escuela"
+    },
+    {
+      "sentence": "I ____ at 8 o'clock every morning.",
+      "answer": "wake up",
+      "option2": "wakes up",
+      "option3": "waking up",
+      "meaning": "Me despierto a las 8 en punto todas las mañanas"
+    },
+    {
+      "sentence": "They ____ in a big house.",
+      "answer": "live",
+      "option2": "lives",
+      "option3": "living",
+      "meaning": "Ellos viven en una casa grande"
+    },
+    {
+      "sentence": "She ____ early for work.",
+      "answer": "leaves",
+      "option2": "leave",
+      "option3": "leaving",
+      "meaning": "Ella sale temprano para trabajar"
+    },
+    {
+      "sentence": "We ____ basketball on Wednesdays.",
+      "answer": "play",
+      "option2": "plays",
+      "option3": "playing",
+      "meaning": "Jugamos baloncesto los miércoles"
+    },
+    {
+      "sentence": "I ____ tea in the afternoon.",
+      "answer": "drink",
+      "option2": "drinks",
+      "option3": "drinking",
+      "meaning": "Yo tomo té en la tarde"
+    },
+    {
+      "sentence": "I ___ to school every day.",
+      "answer": "go",
+      "option2": "goes",
+      "option3": "am going",
+      "meaning": "Yo voy a la escuela todos los días."
+    },
+    {
+      "sentence": "They ___ soccer on weekends.",
+      "answer": "play",
+      "option2": "plays",
+      "option3": "are playing",
+      "meaning": "Ellos juegan fútbol los fines de semana."
+    },
+    {
+      "sentence": "We ___ English class every Monday.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "are having",
+      "meaning": "Nosotros tenemos clase de inglés todos los lunes."
+    },
+    {
+      "sentence": "He ___ his homework in the evening.",
+      "answer": "does",
+      "option2": "do",
+      "option3": "is doing",
+      "meaning": "Él hace su tarea en la tarde."
+    },
+    {
+      "sentence": "They ___ go to the beach on Saturdays.",
+      "answer": "do not",
+      "option2": "does not",
+      "option3": "don't",
+      "meaning": "Ellos no van a la playa los sábados."
+    },
+    {
+      "sentence": "___ it rain often in this city?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Llueve a menudo en esta ciudad?"
+    },
+    {
+      "sentence": "She ___ coffee in the morning.",
+      "answer": "does not drink",
+      "option2": "do not drink",
+      "option3": "is not drink",
+      "meaning": "Ella no toma café en la mañana."
+    },
+    {
+      "sentence": "___ your parents live in the same house?",
+      "answer": "Do",
+      "option2": "Does",
+      "option3": "Are",
+      "meaning": "¿Tus padres viven en la misma casa?"
+    },
+
+    {
+      "sentence": "She ____ to school every day.",
+      "answer": "goes",
+      "option2": "go",
+      "option3": "going",
+      "meaning": "Ella va a la escuela todos los días."
+    },
+    {
+      "sentence": "He ____ coffee in the morning.",
+      "answer": "drinks",
+      "option2": "drink",
+      "option3": "drinking",
+      "meaning": "Él toma café en la mañana"
+    },
+    {
+      "sentence": "Mike ___ basketball every week.",
+      "answer": "plays",
+      "option2": "play",
+      "option3": "playing",
+      "meaning": "Mike juega baloncesto todas las semanas."
+    },
+    {
+      "sentence": "I ___ like onions in my salad.",
+      "answer": "do not",
+      "option2": "does not",
+      "option3": "don't",
+      "meaning": "No me gustan las cebollas en mi ensalada."
+    },
+    {
+      "sentence": "___ you have a pencil I can borrow?",
+      "answer": "Do",
+      "option2": "Does",
+      "option3": "Is",
+      "meaning": "¿Tienes un lápiz que pueda prestar?"
+    },
+    {
+      "sentence": "She always ___ her lunch in the cafeteria.",
+      "answer": "eats",
+      "option2": "eat",
+      "option3": "eating",
+      "meaning": "Ella siempre come su almuerzo en la cafetería."
+    },
+    {
+      "sentence": "We ___ movies on Friday nights.",
+      "answer": "watch",
+      "option2": "watches",
+      "option3": "watching",
+      "meaning": "Nosotros vemos películas los viernes en la noche."
+    },
+    {
+      "sentence": "She ___ to school every day.",
+      "answer": "goes",
+      "option2": "go",
+      "option3": "going",
+      "meaning": "Ella va a la escuela todos los días."
+    },
+    {
+      "sentence": "She ___ to school on Sundays.",
+      "answer": "does not go",
+      "option2": "do not go",
+      "option3": "are not going",
+      "meaning": "Ella no va a la escuela los domingos."
+    },
+    {
+      "sentence": "___ she go to school every day?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Va ella a la escuela todos los días?"
+    },
+    {
+      "sentence": "He ___ coffee in the evening.",
+      "answer": "does not drink",
+      "option2": "do not drink",
+      "option3": "is not drink",
+      "meaning": "Él no toma café en la noche."
+    },
+    {
+      "sentence": "___ he drink coffee in the morning?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Toma café él en la mañana?"
+    },
+    {
+      "sentence": "They ___ go to the beach on Saturdays.",
+      "answer": "do",
+      "option2": "does",
+      "option3": "don't",
+      "meaning": "Ellos van a la playa los sábados."
+    },
+    {
+      "sentence": "___ they go to the beach on Saturdays?",
+      "answer": "Do",
+      "option2": "Does",
+      "option3": "Are",
+      "meaning": "¿Van ellos a la playa los sábados?"
+    },
+    {
+      "sentence": "She ___ English every day.",
+      "answer": "studies",
+      "option2": "study",
+      "option3": "studying",
+      "meaning": "Ella estudia inglés todos los días."
+    },
+    {
+      "sentence": "I _____ to the gym every day.",
+      "answer": "go",
+      "option2": "goes",
+      "option3": "going",
+      "meaning": "Voy al gimnasio todos los días."
+    },
+    {
+      "sentence": "She _____ basketball on Saturdays.",
+      "answer": "plays",
+      "option2": "play",
+      "option3": "playing",
+      "meaning": "Ella juega al baloncesto los sábados."
+    },
+    {
+      "sentence": "We _____ ice cream after dinner.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "having",
+      "meaning": "Nosotros tomamos helado después de la cena."
+    },
+    {
+      "sentence": "He _____ a truck for work.",
+      "answer": "drives",
+      "option2": "drive",
+      "option3": "driving",
+      "meaning": "Él conduce un camión para trabajar."
+    },
+    {
+      "sentence": "They _____ at 9 p.m.",
+      "answer": "arrive",
+      "option2": "arrives",
+      "option3": "arriving",
+      "meaning": "Ellos llegan a las 9 p.m."
+    },
+    {
+      "sentence": "She _____ to the movies on Fridays.",
+      "answer": "goes",
+      "option2": "go",
+      "option3": "going",
+      "meaning": "Ella va al cine los viernes."
+    },
+    {
+      "sentence": "Dogs _____ companionship.",
+      "answer": "provide",
+      "option2": "provides",
+      "option3": "providing",
+      "meaning": "Los perros brindan compañía."
+    },
+    {
+      "sentence": "He _____ football on the weekends.",
+      "answer": "plays",
+      "option2": "play",
+      "option3": "playing",
+      "meaning": "Él juega al fútbol los fines de semana."
+    },
+    {
+      "sentence": "They _____ a lot of fruit.",
+      "answer": "eat",
+      "option2": "eats",
+      "option3": "eating",
+      "meaning": "Ellos comen mucha fruta."
+    },
+    {
+      "sentence": "She _____ the guitar.",
+      "answer": "plays",
+      "option2": "play",
+      "option3": "playing",
+      "meaning": "Ella toca la guitarra."
+    },
+    {
+      "sentence": "I ___ to the gym every day.",
+      "answer": "go",
+      "option2": "goes",
+      "option3": "going",
+      "meaning": "Voy al gimnasio todos los días."
+    },
+    {
+      "sentence": "My brother ___ video games in his free time.",
+      "answer": "plays",
+      "option2": "play",
+      "option3": "playing",
+      "meaning": "Mi hermano juega videojuegos en su tiempo libre."
+    },
+    {
+      "sentence": "We ___ English at school.",
+      "answer": "study",
+      "option2": "studies",
+      "option3": "studying",
+      "meaning": "Estudiamos inglés en la escuela."
+    },
+    {
+      "sentence": "___ he like pizza?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Le gusta la pizza?"
+    },
+    {
+      "sentence": "She ___ at a restaurant.",
+      "answer": "works",
+      "option2": "work",
+      "option3": "working",
+      "meaning": "Ella trabaja en un restaurante."
+    },
+    {
+      "sentence": "They ___ football on Sundays.",
+      "answer": "play",
+      "option2": "plays",
+      "option3": "playing",
+      "meaning": "Juegan fútbol los domingos."
+    },
+    {
+      "sentence": "___ she go to the library after school?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Ella va a la biblioteca después de la escuela?"
+    },
+    {
+      "sentence": "They ___ sushi for lunch.",
+      "answer": "like",
+      "option2": "likes",
+      "option3": "liking",
+      "meaning": "A ellos les gusta el sushi para el almuerzo."
+    },
+    {
+      "sentence": "My father ___ the QR code to unlock his phone.",
+      "answer": "scans",
+      "option2": "scan",
+      "option3": "scanning",
+      "meaning": "Mi padre escanea el código QR para desbloquear su teléfono."
+    },
+    {
+      "sentence": "I ____ television every night.",
+      "answer": "do not watch",
+      "option2": "does not watch",
+      "option3": "am not watch",
+      "meaning": "No veo televisión todas las noches."
+    },
+    {
+      "sentence": "___ they play soccer on Sundays?",
+      "answer": "Do",
+      "option2": "Does",
+      "option3": "Are",
+      "meaning": "¿Juegan al fútbol los domingos?"
+    },
+    {
+      "sentence": "He ____ English very well.",
+      "answer": "does not speak",
+      "option2": "do not speak",
+      "option3": "is not speak",
+      "meaning": "Él no habla inglés muy bien."
+    },
+    {
+      "sentence": "___ you have any siblings?",
+      "answer": "Do",
+      "option2": "Does",
+      "option3": "Are",
+      "meaning": "¿Tienes hermanos?"
+    },
+    {
+      "sentence": "We ____ milk on Saturdays.",
+      "answer": "do not drink",
+      "option2": "does not drink",
+      "option3": "are not drink",
+      "meaning": "Nosotros no tomamos leche los sábados."
+    },
+    {
+      "sentence": "___ she go shopping after work?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Ella va de compras después del trabajo?"
+    },
+    {
+      "sentence": "They ____ their friends on weekends.",
+      "answer": "do not visit",
+      "option2": "does not visit",
+      "option3": "are not visit",
+      "meaning": "Ellos no visitan a sus amigos los fines de semana."
+    },
+    {
+      "sentence": "___ he like to eat pizza?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Le gusta comer pizza?"
+    },
+    {
+      "sentence": "She ___ to the gym twice a week.",
+      "answer": "does not go",
+      "option2": "do not go",
+      "option3": "is not go",
+      "meaning": "Ella no va al gimnasio dos veces a la semana."
+    },
+    {
+      "sentence": "___ you have a car?",
+      "answer": "Do",
+      "option2": "Does",
+      "option3": "Are",
+      "meaning": "¿Tienes un auto?"
+    },
+    {
+      "sentence": "I ___ soccer every week.",
+      "answer": "do not play",
+      "option2": "do not plays",
+      "option3": "do not played",
+      "meaning": "Yo no juego fútbol todos los días."
+    },
+    {
+      "sentence": "___ they like ice cream?",
+      "answer": "Do",
+      "option2": "Does",
+      "option3": "Are",
+      "meaning": "¿A ellos les gusta el helado?"
+    },
+    {
+      "sentence": "We ___ late for work.",
+      "answer": "are not",
+      "option2": "is not",
+      "option3": "do not",
+      "meaning": "Nosotros no llegamos tarde al trabajo."
+    },
+    {
+      "sentence": " ___ he speak Spanish?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Él habla español?"
+    },
+    {
+      "sentence": "Mary ___ to the gym on Sundays.",
+      "answer": "does not go",
+      "option2": "do not go",
+      "option3": "does not goes",
+      "meaning": "Mary no va al gimnasio los domingos."
+    },
+    {
+      "sentence": "___ you like soccer?",
+      "answer": "Do",
+      "option2": "Does",
+      "option3": "Are",
+      "meaning": "¿A ti te gusta el fútbol?"
+    },
+    {
+      "sentence": "We ___ to school on Sundays",
+      "answer": "do not go",
+      "option2": "does not go",
+      "option3": "don't go",
+      "meaning": "Nosotros no vamos a la escuela los domingos."
+    },
+    {
+      "sentence": "___ she play soccer?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Ella juega fútbol?"
+    },
+    {
+      "sentence": "They ___ blue shirts.",
+      "answer": "do not wear",
+      "option2": "do not wears",
+      "option3": "do not wore",
+      "meaning": "Ellos no usan camisas azules."
+    },
+    {
+      "sentence": "___ he drive a car?",
+      "answer": "Does",
+      "option2": "Do",
+      "option3": "Is",
+      "meaning": "¿Él maneja un auto?"
+    },
+    {
+      "sentence": "I ___ basketball every Sunday.",
+      "answer": "play",
+      "option2": "plays",
+      "option3": "to play",
+      "meaning": "Juego baloncesto todos los domingos."
+    },
+    {
+      "sentence": "She ___ him every day after work.",
+      "answer": "calls",
+      "option2": "call",
+      "option3": "calling",
+      "meaning": "Ella le llama todos los días después del trabajo."
+    },
+    {
+      "sentence": "He ___ his cat before going to bed.",
+      "answer": "feeds",
+      "option2": "feed",
+      "option3": "feeding",
+      "meaning": "Él le da de comer a su gato antes de ir a la cama."
+    },
+    {
+      "sentence": "They ___ to the gym three times a week.",
+      "answer": "go",
+      "option2": "goes",
+      "option3": "going",
+      "meaning": "Ellos van al gimnasio tres veces a la semana."
+    },
+    {
+      "sentence": "The dog ___ in the park every afternoon.",
+      "answer": "runs",
+      "option2": "run",
+      "option3": "running",
+      "meaning": "El perro corre en el parque todas las tardes."
+    },
+    {
+      "sentence": "She ___ English lessons twice a week.",
+      "answer": "takes",
+      "option2": "take",
+      "option3": "taking",
+      "meaning": "Ella toma clases de inglés dos veces a la semana."
+    },
+    {
+      "sentence": "We ___ dinner at restaurants on special occasions.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "having",
+      "meaning": "Tenemos la cena en restaurantes en ocasiones especiales."
+    },
+    {
+      "sentence": "He ___ up early every morning.",
+      "answer": "wakes",
+      "option2": "wake",
+      "option3": "waking",
+      "meaning": "Él se despierta temprano cada mañana."
+    },
+    {
+      "sentence": "They ___ for a walk in the park every evening.",
+      "answer": "go",
+      "option2": "goes",
+      "option3": "going",
+      "meaning": "Ellos van a dar un paseo al parque cada noche."
+    },
+    {
+      "sentence": "I ___ an orange for breakfast every day.",
+      "answer": "have",
+      "option2": "has",
+      "option3": "having",
+      "meaning": "Como una naranja en el desayuno todos los días."
+    },
+    {
+      "sentence": "I ____ to the gym every day.",
+      "answer": "go",
+      "option2": "goes",
+      "option3": "going",
+      "meaning": "Yo voy al gimnasio todos los días."
+    },
+    {
+      "sentence": "He ____ football on weekends.",
+      "answer": "plays",
+      "option2": "play",
+      "option3": "playing",
+      "meaning": "Él juega fútbol los fines de semana."
+    },
+    {
+      "sentence": "We ___ ice cream in the summer.",
+      "=nswer": "eat",
+      "option2": "eats",
+      "option3": "eating",
+      "meaning": "Nosotros comemos helado en el verano."
+    },
+    {
+      "sentence": "It ____ a lot in this city.",
+      "answer": "rains",
+      "option2": "rain",
+      "option3": "raining",
+      "meaning": "Llueve mucho en esta ciudad."
+    },
+    {
+      "sentence": "My mother ____ breakfast every morning.",
+      "answer": "makes",
+      "option2": "make",
+      "option3": "making",
+      "meaning": "Mi mamá hace el desayuno cada mañana."
+    },
+    {
+      "sentence": "They ____ movies on Saturdays.",
+      "answer": "watch",
+      "option2": "watches",
+      "option3": "watching",
+      "meaning": "Ellos ven películas los sábados."
+    },
+    {
+      "sentence": "She ____ Spanish lessons twice a week.",
+      "answer": "takes",
+      "option2": "take",
+      "option3": "taking",
+      "meaning": "Ella toma clases de español dos veces a la semana."
+    },
+    {
+      "sentence": "He ____ his dog to the park every day.",
+      "answer": "walks",
+      "option2": "walk",
+      "option3": "walking",
+      "meaning": "Él pasea a su perro al parque todos los días."
+    },
+    {
+      "sentence": "I ___ soccer with my friends on Sundays.",
+      "answer": "play",
+      "option2": "plays",
+      "option3": "playing",
+      "meaning": "Yo juego fútbol con mis amigos los domingos."
+    },
+    {
+      "sentence": "They ___ to the beach in the summer.",
+      "answer": "go",
+      "option2": "goes",
+      "option3": "going",
+      "meaning": "Ellos van a la playa en el verano."
+    },
+    {
+      "sentence": "They ___ vegetables for dinner.",
+      "answer": "eat",
+      "option2": "eats",
+      "option3": "eating",
+      "meaning": "Ellos comen verduras para la cena."
+    }
+  ]
+}

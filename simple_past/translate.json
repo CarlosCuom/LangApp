@@ -1,0 +1,151 @@
+{
+  "exercises": [
+    {
+      "sentence": "Nadé en la piscina ayer.",
+      "answer": "I swam in the pool yesterday.",
+      "option2": "I will swim in the pool tomorrow.",
+      "option3": "I am swimming in the pool today.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mis padres compraron un nuevo coche la semana pasada.",
+      "answer": "My parents bought a new car last week.",
+      "option2": "My parents will buy a new car next week.",
+      "option3": "My parents buy a new car every week.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ayer vi una película en el cine.",
+      "answer": "Yesterday, I watched a movie at the cinema.",
+      "option2": "Tomorrow, I will watch a movie at the cinema.",
+      "option3": "Everyday, I watch a movie at the cinema.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Tomé un café esta mañana.",
+      "answer": "I had a coffee this morning.",
+      "option2": "I will have a coffee tomorrow morning.",
+      "option3": "I have a coffee every morning.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Él estudió toda la noche para el examen.",
+      "answer": "He studied all night for the exam.",
+      "option2": "He will study all night for the exam.",
+      "option3": "He studies all night for the exam.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mis amigos bailaron en la fiesta anoche.",
+      "answer": "My friends danced at the party last night.",
+      "option2": "My friends will dance at the party tonight.",
+      "option3": "My friends dance at the party every night.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Conocí a mi mejor amiga en la escuela primaria.",
+      "answer": "I met my best friend in elementary school.",
+      "option2": "I will meet my best friend in elementary school.",
+      "option3": "I meet my best friend in elementary school.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ella cantó hermosamente en el concierto.",
+      "answer": "She sang beautifully at the concert.",
+      "option2": "She will sing beautifully at the concert.",
+      "option3": "She sings beautifully at the concert.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mis abuelos visitaron a mi familia el verano pasado.",
+      "answer": "My grandparents visited my family last summer.",
+      "option2": "My grandparents will visit my family next summer.",
+      "option3": "My grandparents visit my family every summer.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mis hermanos y yo jugamos fútbol en el parque ayer.",
+      "answer": "My brothers and I played soccer in the park yesterday.",
+      "option2": "My brothers and I will play soccer in the park tomorrow.",
+      "option3": "My brothers and I play soccer in the park every day.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Mi madre cocinó una cena deliciosa anoche.",
+      "answer": "My mother cooked a delicious dinner last night.",
+      "option2": "My mother will cook a delicious dinner tonight.",
+      "option3": "My mother cooks a delicious dinner every night.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Él corrió en la maratón el mes pasado.",
+      "answer": "He ran in the marathon last month.",
+      "option2": "He will run in the marathon next month.",
+      "option3": "He runs in the marathon every month.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Yo escribí una poema para mi novia.",
+      "answer": "I wrote a poem for my girlfriend.",
+      "option2": "I will write a poem for my girlfriend.",
+      "option3": "I write a poem for my girlfriend.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ella paseó su perro en el parque esta mañana.",
+      "answer": "She walked her dog in the park this morning.",
+      "option2": "She will walk her dog in the park tomorrow morning.",
+      "option3": "She walks her dog in the park every morning.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Estudié para el examen toda la noche.",
+      "answer": "I studied for the exam all night.",
+      "option2": "I will study for the exam all night.",
+      "option3": "I study for the exam all night.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ellos volaron a Europa para sus vacaciones.",
+      "answer": "They flew to Europe for their vacation.",
+      "option2": "They will fly to Europe for their vacation.",
+      "option3": "They fly to Europe for their vacation.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Nosotros tomamos el autobús al trabajo todos los días.",
+      "answer": "We took the bus to work every day.",
+      "option2": "We will take the bus to work every day.",
+      "option3": "We take the bus to work every day.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Visitamos a nuestros abuelos durante las vacaciones de Navidad.",
+      "answer": "We visited our grandparents during the Christmas holidays.",
+      "option2": "We will visit our grandparents during the Christmas holidays.",
+      "option3": "We visit our grandparents during the Christmas holidays.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Fuimos a un concierto de rock la semana pasada.",
+      "answer": "We went to a rock concert last week.",
+      "option2": "We will go to a rock concert next week.",
+      "option3": "We go to a rock concert every week.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Ellas leyeron un libro interesante en el parque ayer.",
+      "answer": "They read an interesting book in the park yesterday.",
+      "option2": "They will read an interesting book in the park tomorrow.",
+      "option3": "They read an interesting book in the park every day.",
+      "meaning": "Translate the sentence."
+    },
+    {
+      "sentence": "Perdí el tren esta mañana.",
+      "answer": "I missed the train this morning.",
+      "option2": "I will miss the train tomorrow morning.",
+      "option3": "I miss the train every morning.",
+      "meaning": "Translate the sentence."
+    }
+  ]
+}

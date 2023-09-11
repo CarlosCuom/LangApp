@@ -1,0 +1,705 @@
+{
+  "exercises": [
+    {
+      "sentence": "They ____ in the park right now.",
+      "answer": "are playing",
+      "option2": "play",
+      "option3": "plays",
+      "meaning": "Ellos están jugando en el parque justo ahora"
+    },
+    {
+      "sentence": "I ____ my favorite TV show at the moment.",
+      "answer": "am watching",
+      "option2": "is watching",
+      "option3": "are watching",
+      "meaning": "Yo estoy mirando mi show de TV favorito en este momento"
+    },
+    {
+      "sentence": "We ____ a movie tonight.",
+      "answer": "are watching",
+      "option2": "watch",
+      "option3": "watches",
+      "meaning": "Vamos a ver una película esta noche"
+    },
+    {
+      "sentence": "The dog ____ in the backyard right now.",
+      "answer": "is playing",
+      "option2": "play",
+      "option3": "plays",
+      "meaning": "El perro está jugando en el patio trasero justo ahora"
+    },
+    {
+      "sentence": "He ____ listening to music while he works.",
+      "answer": "is",
+      "option2": "listen",
+      "option3": "is listening",
+      "meaning": "Él está escuchando música mientras trabaja"
+    },
+    {
+      "sentence": "They ____ volleyball every Saturday.",
+      "answer": "play",
+      "option2": "plays",
+      "option3": "are playing",
+      "meaning": "Ellos juegan voleibol todos los sábados"
+    },
+    {
+      "sentence": "I ____ taking English lessons online.",
+      "answer": "am",
+      "option2": "takes",
+      "option3": "is taking",
+      "meaning": "Estoy tomando clases de inglés en línea"
+    },
+    {
+      "sentence": "She ____ cake for her birthday.",
+      "answer": "is baking",
+      "option2": "bake",
+      "option3": "bakes",
+      "meaning": "Ella está horneando un pastel para su cumpleaños"
+    },
+    {
+      "sentence": "He ____ for a promotion at work.",
+      "answer": "is applying",
+      "option2": "apply",
+      "option3": "applies",
+      "meaning": "Él está solicitando un ascenso en el trabajo"
+    },
+    {
+      "sentence": "They ____ a new house.",
+      "answer": "are buying",
+      "option2": "buy",
+      "option3": "buys",
+      "meaning": "Ellos están comprando una casa nueva"
+    },
+    {
+      "sentence": "I ____ my car right now.",
+      "answer": "am washing",
+      "option2": "wash",
+      "option3": "washes",
+      "meaning": "Estoy lavando mi coche justo ahora"
+    },
+    {
+      "sentence": "She ____ to the radio every morning.",
+      "answer": "listens",
+      "option2": "listen",
+      "option3": "is listening",
+      "meaning": "Ella escucha la radio todas las mañanas"
+    },
+    {
+      "sentence": "My parents ____ dinner at the moment.",
+      "answer": "are cooking",
+      "option2": "cook",
+      "option3": "cooks",
+      "meaning": "Mis padres están cocinando la cena en este momento"
+    },
+    {
+      "sentence": "We ____ a new project this week.",
+      "answer": "are starting",
+      "option2": "start",
+      "option3": "starts",
+      "meaning": "Vamos a empezar un nuevo proyecto esta semana"
+    },
+    {
+      "sentence": "She ____ her homework right now.",
+      "answer": "is doing",
+      "option2": "do",
+      "option3": "does",
+      "meaning": "Ella está haciendo su tarea en este momento."
+    },
+    {
+      "sentence": "They ____ a football match tomorrow.",
+      "answer": "are watching",
+      "option2": "watch",
+      "option3": "watches",
+      "meaning": "Ellos están mirando un partido de fútbol mañana."
+    },
+    {
+      "sentence": "I ____ with my friends at the moment.",
+      "answer": "am chatting",
+      "option2": "chat",
+      "option3": "chats",
+      "meaning": "Estoy charlando con mis amigos en este momento."
+    },
+    {
+      "sentence": "We ____ to the beach next weekend.",
+      "answer": "are going",
+      "option2": "go",
+      "option3": "goes",
+      "meaning": "Vamos a ir a la playa el próximo fin de semana."
+    },
+    {
+      "sentence": "____ any plans for tonight?",
+      "answer": "Do you have",
+      "option2": "Have you",
+      "option3": "Are you having",
+      "meaning": "¿Tienes algún plan para esta noche?"
+    },
+    {
+      "sentence": "Is she ____ on her phone right now?",
+      "answer": "texting",
+      "option2": "texts",
+      "option3": "text",
+      "meaning": "¿Ella está enviando mensajes de texto en su teléfono en este momento?"
+    },
+    {
+      "sentence": "He ____ a book at the moment.",
+      "answer": "is reading",
+      "option2": "read",
+      "option3": "reads",
+      "meaning": "Él está leyendo un libro en este momento."
+    },
+    {
+      "sentence": "It ____ very cold today.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Hace mucho frío hoy."
+    },
+    {
+      "sentence": "You ____ your lunch right now.",
+      "answer": "are eating",
+      "option2": "eat",
+      "option3": "eats",
+      "meaning": "Estás comiendo tu almuerzo en este momento."
+    },
+    {
+      "sentence": "____ any problems with the new project?",
+      "answer": "Are you having",
+      "option2": "Do you have",
+      "option3": "Have you",
+      "meaning": "¿Tienes algún problema con el nuevo proyecto?"
+    },
+    {
+      "sentence": "We ____ to a concert next week.",
+      "answer": "are going",
+      "option2": "go",
+      "option3": "goes",
+      "meaning": "Vamos a ir a un concierto la próxima semana."
+    },
+    {
+      "sentence": "____ the show starting at 8:00 PM tonight?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿La función comienza a las 8:00 PM esta noche?"
+    },
+    {
+      "sentence": "They ____ a vacation next month.",
+      "answer": "are planning",
+      "option2": "plan",
+      "option3": "plans",
+      "meaning": "Ellos están planeando unas vacaciones el próximo mes."
+    },
+    {
+      "sentence": "Is he ____ to the radio right now?",
+      "answer": "listening",
+      "option2": "listens",
+      "option3": "listen",
+      "meaning": "¿Está escuchando la radio en este momento?"
+    },
+    {
+      "sentence": "She ____ a new job next week.",
+      "answer": "is starting",
+      "option2": "start",
+      "option3": "starts",
+      "meaning": "Ella va a empezar un nuevo trabajo la próxima semana."
+    },
+    {
+      "sentence": "We ____ to the gym every day.",
+      "answer": "are going",
+      "option2": "go",
+      "option3": "goes",
+      "meaning": "Vamos al gimnasio todos los días."
+    },
+    {
+      "sentence": "____ your sister playing the piano right now?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿Tu hermana está tocando el piano en este momento?"
+    },
+    {
+      "sentence": "He ____ his car at the moment.",
+      "answer": "is washing",
+      "option2": "wash",
+      "option3": "washes",
+      "meaning": "Él está lavando su coche en este momento."
+    },
+    {
+      "sentence": "Is the cat ____ on the sofa?",
+      "answer": "sleeping",
+      "option2": "sleep",
+      "option3": "sleeps",
+      "meaning": "¿Está durmiendo el gato en el sofá?"
+    },
+    {
+      "sentence": "They ____ a new house next year.",
+      "answer": "are buying",
+      "option2": "buy",
+      "option3": "buys",
+      "meaning": "Ellos van a comprar una casa nueva el próximo año."
+    },
+    {
+      "sentence": "I ____ my sister right now.",
+      "answer": "am calling",
+      "option2": "call",
+      "option3": "calls",
+      "meaning": "Estoy llamando a mi hermana en este momento."
+    },
+    {
+      "sentence": "You ____ washing the dishes right now?",
+      "answer": "are not",
+      "option2": "am not",
+      "option3": "is not",
+      "meaning": "¿Estás lavando los platos en este momento?"
+    },
+    {
+      "sentence": "We ____ going to the party tonight.",
+      "answer": "are not",
+      "option2": "is not",
+      "option3": "am not",
+      "meaning": "No vamos a la fiesta esta noche."
+    },
+    {
+      "sentence": "____ the students studying for the test?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Están los estudiantes estudiando para el examen?"
+    },
+    {
+      "sentence": "She ____ sleeping right now.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "Ella no está durmiendo en este momento."
+    },
+    {
+      "sentence": "Is he ____ on his computer?",
+      "answer": "working",
+      "option2": "works",
+      "option3": "work",
+      "meaning": "¿Está él trabajando en su computadora?"
+    },
+    {
+      "sentence": "He ___ studying for his exams.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Él está estudiando para sus exámenes."
+    },
+    {
+      "sentence": "We ___ watching a movie right now.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Nosotros estamos viendo una película en este momento."
+    },
+    {
+      "sentence": "She ___ working on a project at the office.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Ella está trabajando en un proyecto en la oficina."
+    },
+    {
+      "sentence": "They ____ playing soccer in the park.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellos están jugando al fútbol en el parque."
+    },
+    {
+      "sentence": "I ___ listening to music right now.",
+      "answer": "am",
+      "option2": "is",
+      "option3": "are",
+      "meaning": "Estoy escuchando música en este momento."
+    },
+    {
+      "sentence": "The birds ___ singing in the trees.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Los pájaros están cantando en los árboles."
+    },
+    {
+      "sentence": "He ____ eating dinner with his family.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Él está cenando con su familia."
+    },
+    {
+      "sentence": "We ____ working on a new project.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Estamos trabajando en un nuevo proyecto."
+    },
+    {
+      "sentence": "She ___ going to the party tonight.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Ella va a la fiesta esta noche."
+    },
+    {
+      "sentence": "They _____ playing video games.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellos están jugando videojuegos."
+    },
+    {
+      "sentence": "I ____ going shopping tomorrow.",
+      "answer": "am",
+      "option2": "is",
+      "option3": "are",
+      "meaning": "Voy a ir de compras mañana."
+    },
+    {
+      "sentence": "The students ____ studying in the library.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Los estudiantes están estudiando en la biblioteca."
+    },
+    {
+      "sentence": "He ____ playing basketball after school.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Él está jugando baloncesto después de la escuela."
+    },
+    {
+      "sentence": "We ____ going on a vacation next week.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Vamos a irnos de vacaciones la próxima semana."
+    },
+    {
+      "sentence": "She ____ cooking dinner for her friends.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Ella está cocinando cena para sus amigos."
+    },
+    {
+      "sentence": "They ____ learning a new language.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Ellos están aprendiendo un nuevo idioma."
+    },
+    {
+      "sentence": "I ___ reading a book at the moment.",
+      "answer": "am",
+      "option2": "is",
+      "option3": "are",
+      "meaning": "Estoy leyendo un libro en este momento."
+    },
+    {
+      "sentence": "The dog ____ playing in the backyard.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "El perro está jugando en el patio trasero."
+    },
+    {
+      "sentence": "He ___ working on his computer.",
+      "answer": "is",
+      "option2": "am",
+      "option3": "are",
+      "meaning": "Él está trabajando en su computadora."
+    },
+    {
+      "sentence": "We ____ shopping for new clothes.",
+      "answer": "are",
+      "option2": "is",
+      "option3": "am",
+      "meaning": "Estamos yendo de compras por ropa nueva."
+    },
+    {
+      "sentence": "They ___ playing soccer.",
+      "answer": "are not",
+      "option2": "am not",
+      "option3": "is not",
+      "meaning": "Ellos no están jugando al fútbol."
+    },
+    {
+      "sentence": "___ she studying for the exam?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿Está ella estudiando para el examen?"
+    },
+    {
+      "sentence": "He ____ cooking dinner tonight.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "Él no está cocinando la cena esta noche."
+    },
+    {
+      "sentence": "I ____ watching TV at the moment.",
+      "answer": "am not",
+      "option2": "is not",
+      "option3": "are not",
+      "meaning": "Yo no estoy viendo televisión en este momento."
+    },
+    {
+      "sentence": "____ they going to the party?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Van ellos a la fiesta?"
+    },
+    {
+      "sentence": "She ___ listening to music.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "Ella no está escuchando música."
+    },
+    {
+      "sentence": "I ____ playing the guitar.",
+      "answer": "am not",
+      "option2": "is not",
+      "option3": "are not",
+      "meaning": "Yo no estoy tocando la guitarra."
+    },
+    {
+      "sentence": "___ he eating breakfast now?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿Está él comiendo el desayuno ahora?"
+    },
+    {
+      "sentence": "We ___ going for a walk.",
+      "answer": "are not",
+      "option2": "am not",
+      "option3": "is not",
+      "meaning": "Nosotros no estamos yendo a dar un paseo."
+    },
+    {
+      "sentence": "____ you coming to the party tonight?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Vas tú a venir a la fiesta esta noche?"
+    },
+    {
+      "sentence": "My brother ___ playing video games.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "Mi hermano no está jugando videojuegos."
+    },
+    {
+      "sentence": "___ they working on the project?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Están ellos trabajando en el proyecto?"
+    },
+    {
+      "sentence": "Mom ____ cooking dinner right now.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "Mamá no está cocinando la cena en este momento."
+    },
+    {
+      "sentence": "____ you sleeping?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Estás durmiendo tú?"
+    },
+    {
+      "sentence": "The dogs ____ playing in the yard.",
+      "answer": "are not",
+      "option2": "am not",
+      "option3": "is not",
+      "meaning": "Los perros no están jugando en el patio."
+    },
+    {
+      "sentence": "___ she working today?",
+      "answer": "Is",
+      "option2": "Are",
+      "option3": "Am",
+      "meaning": "¿Está ella trabajando hoy?"
+    },
+    {
+      "sentence": "We ____ going to the beach.",
+      "answer": "are not",
+      "option2": "am not",
+      "option3": "is not",
+      "meaning": "Nosotros no estamos yendo a la playa."
+    },
+    {
+      "sentence": "____ they watching a movie?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Están ellos viendo una película?"
+    },
+    {
+      "sentence": "___ I interrupting?",
+      "answer": "Am",
+      "option2": "Are",
+      "option3": "Is",
+      "meaning": "¿Estoy interrumpiendo?"
+    },
+    {
+      "sentence": "She ____ working late tonight.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "Ella no está trabajando hasta tarde esta noche."
+    },
+    {
+      "sentence": "She ____ playing tennis.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "Ella no está jugando tenis."
+    },
+    {
+      "sentence": "____ we meeting at the cafe?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Nos estamos encontrando en el café?"
+    },
+    {
+      "sentence": "They ____ going to the party tonight.",
+      "answer": "are not",
+      "option2": "is not",
+      "option3": "am not",
+      "meaning": "Ellos no están yendo a la fiesta esta noche."
+    },
+    {
+      "sentence": "Is she ____ to the beach?",
+      "answer": "not going",
+      "option2": "going not",
+      "option3": "not go",
+      "meaning": "¿Ella no está yendo a la playa?"
+    },
+    {
+      "sentence": "____ you studying for the exam?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Estás estudiando para el examen?"
+    },
+    {
+      "sentence": "He ____ wearing a suit.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "Él no está usando un traje."
+    },
+    {
+      "sentence": "____ they sleeping in the tent?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Están ellos durmiendo en la tienda de campaña?"
+    },
+    {
+      "sentence": "It ____ raining.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "No está lloviendo."
+    },
+    {
+      "sentence": "____ you listening to music?",
+      "answer": "Are",
+      "option2": "Is",
+      "option3": "Am",
+      "meaning": "¿Estás escuchando música?"
+    },
+    {
+      "sentence": "She ____ cooking dinner.",
+      "answer": "is not",
+      "option2": "am not",
+      "option3": "are not",
+      "meaning": "Ella no está cocinando la cena."
+    },
+
+    {
+      "sentence": "She ___ her book.",
+      "answer": "is reading",
+      "option2": "are reading",
+      "option3": "am reading",
+      "meaning": "Ella está leyendo su libro."
+    },
+    {
+      "sentence": "They ____ a movie.",
+      "answer": "are watching",
+      "option2": "is watching",
+      "option3": "am watching",
+      "meaning": "Ellos están viendo una película."
+    },
+    {
+      "sentence": "We ____ dinner.",
+      "answer": "are having",
+      "option2": "is having",
+      "option3": "am having",
+      "meaning": "Nosotros estamos cenando."
+    },
+    {
+      "sentence": "I ____ for a walk.",
+      "answer": "am going",
+      "option2": "is going",
+      "option3": "are going",
+      "meaning": "Yo estoy yendo a pasear."
+    },
+    {
+      "sentence": "Are you ____ to the party?",
+      "answer": "going",
+      "option2": "is going",
+      "option3": "are going",
+      "meaning": "¿Vas a la fiesta?"
+    },
+    {
+      "sentence": "He ____ basketball.",
+      "answer": "is playing",
+      "option2": "are playing",
+      "option3": "am playing",
+      "meaning": "Él está jugando baloncesto."
+    },
+    {
+      "sentence": "She ____ a cake.",
+      "answer": "is baking",
+      "option2": "are baking",
+      "option3": "am baking",
+      "meaning": "Ella está horneando un pastel."
+    },
+    {
+      "sentence": "They ____ on vacation.",
+      "answer": "are going",
+      "option2": "is going",
+      "option3": "am going",
+      "meaning": "Ellos están yendo de vacaciones."
+    },
+    {
+      "sentence": "We ___ a party tonight.",
+      "answer": "are having",
+      "option2": "is having",
+      "option3": "am having",
+      "meaning": "Nosotros estamos teniendo una fiesta esta noche."
+    },
+    {
+      "sentence": "Is she ____ to the concert?",
+      "answer": "going",
+      "option2": "is going",
+      "option3": "are going",
+      "meaning": "¿Ella va al concierto?"
+    }
+  ]
+}
