@@ -8,7 +8,7 @@ const basicVocabulary = document.getElementById("basicVocabulary");
 let userChoice = "";
 
 toBe.addEventListener("click", function () {
-  userChoice = "./to_be/index.html";
+  userChoice = "/LangApp/to_be/index.html";
   goButton.href = userChoice;
 });
 presentContinuous.addEventListener("click", function () {
